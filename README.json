@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-15T11:44:15Z",
+            "last_commit": "2026-08-16T10:03:16Z",
             "owner": "grpc",
             "repo": "grpc",
-            "stars": 45283
+            "stars": 45286
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2026-08-05T00:07:38Z",
             "owner": "microsoft",
             "repo": "api-guidelines",
-            "stars": 23319
+            "stars": 23316
           }
         },
         {
@@ -42,7 +42,7 @@
             "last_commit": "2026-07-21T07:59:55Z",
             "owner": "shieldfy",
             "repo": "API-Security-Checklist",
-            "stars": 23297
+            "stars": 23299
           }
         },
         {
@@ -53,10 +53,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-14T21:58:27Z",
+            "last_commit": "2026-08-16T19:30:30Z",
             "owner": "apache",
             "repo": "thrift",
-            "stars": 10952
+            "stars": 10953
           }
         },
         {
@@ -70,7 +70,7 @@
             "last_commit": "2026-07-23T16:24:13Z",
             "owner": "cloudevents",
             "repo": "spec",
-            "stars": 5862
+            "stars": 5864
           }
         },
         {
@@ -188,7 +188,7 @@
             "last_commit": "2026-08-13T23:38:34Z",
             "owner": "dotnet",
             "repo": "csharplang",
-            "stars": 12678
+            "stars": 12680
           }
         },
         {
@@ -202,7 +202,7 @@
             "last_commit": "2026-08-12T15:23:17Z",
             "owner": "Kotlin",
             "repo": "KEEP",
-            "stars": 3757
+            "stars": 3758
           }
         },
         {
@@ -348,7 +348,7 @@
             "last_commit": "2024-06-11T05:12:52Z",
             "owner": "reactjs",
             "repo": "rfcs",
-            "stars": 5803
+            "stars": 5802
           }
         },
         {
@@ -387,7 +387,7 @@
           "repo_info": {
             "archived": false,
             "language": "Dockerfile",
-            "last_commit": "2026-08-09T11:35:16Z",
+            "last_commit": "2026-08-16T10:21:04Z",
             "owner": "compose-spec",
             "repo": "compose-spec",
             "stars": 2718
@@ -404,7 +404,7 @@
             "last_commit": "2026-06-02T17:10:32Z",
             "owner": "react-native-community",
             "repo": "discussions-and-proposals",
-            "stars": 1820
+            "stars": 1821
           }
         },
         {
@@ -606,7 +606,7 @@
             "last_commit": "2026-08-15T00:05:26Z",
             "owner": "bitcoin",
             "repo": "bips",
-            "stars": 10914
+            "stars": 10915
           }
         },
         {
@@ -858,7 +858,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T19:43:45.724Z",
+    "last_updated": "2026-08-16T19:42:30.317Z",
     "original_repository": "donbarbos/awesome-standards",
     "original_repository_sha": "67f5107d84bdaf3d4d1ee6a681f1097fb10a12b8",
     "enhanced_repository": "enhansome/enhansome-standards",
