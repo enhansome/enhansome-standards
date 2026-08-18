@@ -40,11 +40,11 @@
 
 ## APIs
 
-* [gRPC](https://github.com/grpc/grpc/blob/master/doc/PROTOCOL-HTTP2.md) ⭐ 45,226 | 🐛 1,384 | 🌐 C++ | 📅 2026-08-17 - This document serves as a detailed description for an implementation of gRPC carried over HTTP2 framing.
-* [Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines) ⭐ 23,316 | 🐛 176 | 📅 2026-08-05 - Repository contains a collection of documents and related materials.
+* [gRPC](https://github.com/grpc/grpc/blob/master/doc/PROTOCOL-HTTP2.md) ⭐ 45,227 | 🐛 1,370 | 🌐 C++ | 📅 2026-08-18 - This document serves as a detailed description for an implementation of gRPC carried over HTTP2 framing.
+* [Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines) ⭐ 23,318 | 🐛 176 | 📅 2026-08-05 - Repository contains a collection of documents and related materials.
 * [API Security Checklist](https://github.com/shieldfy/API-Security-Checklist) ⭐ 23,299 | 🐛 2 | 📅 2026-07-21 - Checklist of the most important security countermeasures.
-* [Apache Thrift](https://github.com/apache/thrift/tree/master/doc/specs) ⭐ 10,955 | 🐛 12 | 🌐 C++ | 📅 2026-08-17 - Interface Definition Language and binary communication protocol used for defining and creating services for programming languages.
-* [CloudEvents Spec](https://github.com/cloudevents/spec) ⭐ 5,864 | 🐛 15 | 🌐 Python | 📅 2026-07-23 - A specification for describing event data in a common way.
+* [Apache Thrift](https://github.com/apache/thrift/tree/master/doc/specs) ⭐ 10,953 | 🐛 13 | 🌐 C++ | 📅 2026-08-17 - Interface Definition Language and binary communication protocol used for defining and creating services for programming languages.
+* [CloudEvents Spec](https://github.com/cloudevents/spec) ⭐ 5,866 | 🐛 15 | 🌐 Python | 📅 2026-07-23 - A specification for describing event data in a common way.
 * [RAML Spec](https://github.com/raml-org/raml-spec) ⚠️ Archived - RESTful API Modeling Language is a YAML based language for describing static APIs (but not REST APIs).
 * [JSEND](https://github.com/omniti-labs/jsend) ⭐ 1,726 | 🐛 9 | 📅 2022-01-21 - Specification for a simple, no-frills, JSON based format for application-level communication.
 * [Siren](https://github.com/kevinswiber/siren) ⭐ 1,344 | 🐛 38 | 📅 2020-10-19 - Structured Interface for Representing Entities, super-rad hypermedia, defines links and actions.
@@ -73,12 +73,12 @@
 
 ## Programming Languages
 
-* [Zig Proposals](https://github.com/ziglang/zig/issues?q=is:issue+is:open+label:proposal) ⭐ 43,316 | 🐛 2,853 | 🌐 Zig | 📅 2025-11-27 - Issues with Proposal label in Zig repository.
-* [ECMAScript Proposals](https://github.com/tc39/proposals) ⭐ 19,176 | 🐛 9 | 📅 2026-08-04 - Ecma TC39 (Technical Committee 39) is responsible for evolving the ECMAScript programming language and authoring the specification.
-* [C# Design](https://github.com/dotnet/csharplang) ⭐ 12,681 | 🐛 287 | 🌐 C# | 📅 2026-08-13 - C# Language Design Proposals.
-* [KEEP](https://github.com/Kotlin/KEEP) ⭐ 3,758 | 🐛 13 | 🌐 Markdown | 📅 2026-08-12 - Kotlin Evolution and Enhancement Process.
+* [Zig Proposals](https://github.com/ziglang/zig/issues?q=is:issue+is:open+label:proposal) ⭐ 43,315 | 🐛 2,852 | 🌐 Zig | 📅 2025-11-27 - Issues with Proposal label in Zig repository.
+* [ECMAScript Proposals](https://github.com/tc39/proposals) ⭐ 19,175 | 🐛 9 | 📅 2026-08-04 - Ecma TC39 (Technical Committee 39) is responsible for evolving the ECMAScript programming language and authoring the specification.
+* [C# Design](https://github.com/dotnet/csharplang) ⭐ 12,683 | 🐛 289 | 🌐 C# | 📅 2026-08-18 - C# Language Design Proposals.
+* [KEEP](https://github.com/Kotlin/KEEP) ⭐ 3,758 | 🐛 13 | 🌐 Markdown | 📅 2026-08-18 - Kotlin Evolution and Enhancement Process.
 * [Go Proposals](https://github.com/golang/proposal) ⭐ 3,452 | 🐛 5 | 🌐 HTML | 📅 2026-08-07 - Design discussions for Go language evolution.
-* [Dart Design](https://github.com/dart-lang/language) ⭐ 2,931 | 🐛 1,324 | 🌐 TeX | 📅 2026-08-17 - Design of the Dart language.
+* [Dart Design](https://github.com/dart-lang/language) ⭐ 2,932 | 🐛 1,325 | 🌐 TeX | 📅 2026-08-17 - Design of the Dart language.
 * [GHC Proposals](https://github.com/ghc-proposals/ghc-proposals) ⭐ 705 | 🐛 197 | 🌐 Python | 📅 2026-08-13 - Compiler and language changes for Haskell/GHC.
 * [F# Design](https://github.com/fsharp/fslang-design) ⭐ 551 | 🐛 26 | 🌐 F# | 📅 2026-08-13 - F# Language Design RFCs.
 * [OCaml RFCs](https://github.com/ocaml/RFCs) ⭐ 178 | 🐛 32 | 📅 2026-02-20 - Design discussions about the OCaml language.
@@ -104,16 +104,16 @@
 
 ## Tools
 
-* [React RFCs](https://github.com/reactjs/rfcs) ⭐ 5,802 | 🐛 52 | 📅 2024-06-11 - Change requests for React.
+* [React RFCs](https://github.com/reactjs/rfcs) ⭐ 5,803 | 🐛 52 | 📅 2024-06-11 - Change requests for React.
 * [Vue RFCs](https://github.com/vuejs/rfcs) ⭐ 4,940 | 🐛 63 | 📅 2025-01-08 - Suggestions for major changes to Vue.js.
-* [OTEPs](https://github.com/open-telemetry/opentelemetry-specification/tree/main/oteps/) ⭐ 4,313 | 🐛 577 | 🌐 Makefile | 📅 2026-08-17 - OpenTelemetry Enhancement Proposals.
+* [OTEPs](https://github.com/open-telemetry/opentelemetry-specification/tree/main/oteps/) ⭐ 4,314 | 🐛 579 | 🌐 Makefile | 📅 2026-08-18 - OpenTelemetry Enhancement Proposals.
 * [Compose Specification](https://github.com/compose-spec/compose-spec) ⭐ 2,720 | 🐛 18 | 🌐 Dockerfile | 📅 2026-08-17 - The Compose Specification is developer focused for defining cloud and platform agnostic container-based applications.
-* [React Native RFCs](https://github.com/react-native-community/discussions-and-proposals) ⭐ 1,821 | 🐛 262 | 📅 2026-06-02 - React Native enhancement discussions.
+* [React Native RFCs](https://github.com/react-native-community/discussions-and-proposals) ⭐ 1,821 | 🐛 263 | 📅 2026-06-02 - React Native enhancement discussions.
 * [Fluent Specs](https://github.com/projectfluent/fluent) ⭐ 1,671 | 🐛 78 | 🌐 JavaScript | 📅 2026-03-21 - This repository contains the specification, the reference implementation of the parser and the documentation for Fluent.
 * [npm RFCs](https://github.com/npm/rfcs) ⭐ 776 | 🐛 179 | 🌐 JavaScript | 📅 2026-07-25 - Change proposals for npm.
 * [Nix RFCs](https://github.com/NixOS/rfcs) ⭐ 654 | 🐛 27 | 🌐 Markdown | 📅 2026-06-04 - The Nix community RFCs.
 * [DEPs](https://github.com/django/deps) ⭐ 528 | 🐛 13 | 📅 2026-08-07 - Django Enhancement Proposals.
-* [HIPs](https://github.com/helm/community) ⭐ 495 | 🐛 105 | 📅 2026-08-06 - Helm Improvement Proposals.
+* [HIPs](https://github.com/helm/community) ⭐ 495 | 🐛 106 | 📅 2026-08-06 - Helm Improvement Proposals.
 * [Yarn RFCs](https://github.com/yarnpkg/rfcs) ⭐ 431 | 🐛 22 | 📅 2024-01-06 - Proposals for improvements in Yarn package manager.
 * [HeadVer Spec](https://github.com/line/headver) ⭐ 298 | 🐛 1 | 📅 2024-03-08 - SemVer compatible version specification that has {head}.{yearweek}.{build} system.
 * [Svelte RFCs](https://github.com/sveltejs/rfcs) ⭐ 282 | 🐛 17 | 📅 2024-12-04 - Svelte framework enhancement discussions.
@@ -136,18 +136,18 @@
 
 ## Decentralized Systems
 
-* [BIPs](https://github.com/bitcoin/bips) ⭐ 10,917 | 🐛 50 | 🌐 Wikitext | 📅 2026-08-17 - Bitcoin Improvement Proposals.
+* [BIPs](https://github.com/bitcoin/bips) ⭐ 10,919 | 🐛 52 | 🌐 Wikitext | 📅 2026-08-17 - Bitcoin Improvement Proposals.
 * [BOLTs](https://github.com/lightning/bolts) ⭐ 2,248 | 🐛 40 | 🌐 Markdown | 📅 2026-07-27 - Basis of Lightning Technology (Lightning Network Specifications).
 * [LibP2P Specs](https://github.com/libp2p/specs) ⭐ 1,777 | 🐛 193 | 📅 2026-07-14 - Technical specifications for the libp2p networking stack.
 * [SLIPs](https://github.com/satoshilabs/slips) ⭐ 1,689 | 🐛 7 | 🌐 Markdown | 📅 2026-08-13 - SatoshiLabs Improvement Proposals.
-* [CAIPs](https://github.com/ChainAgnostic/CAIPs) ⭐ 642 | 🐛 99 | 🌐 HTML | 📅 2026-03-03 - Chain Agnostic Improvement Proposals.
+* [CAIPs](https://github.com/ChainAgnostic/CAIPs) ⭐ 642 | 🐛 97 | 🌐 HTML | 📅 2026-08-18 - Chain Agnostic Improvement Proposals.
 * [HIPs](https://github.com/helium/HIP) ⭐ 588 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2026-07-13 - Helium Improvement Proposals.
 * [HCS](https://github.com/hiero-ledger/hiero-consensus-specifications) ⭐ 563 | 🐛 10 | 📅 2026-07-11 - Hiero Consensus Standards.
 * [BEPs](https://github.com/bittorrent/bittorrent.org) ⭐ 441 | 🐛 87 | 🌐 HTML | 📅 2024-05-29 - BitTorrent Enhancement Proposals.
 * [Nervos Network RFCs](https://github.com/nervosnetwork/rfcs) ⭐ 270 | 🐛 27 | 🌐 Python | 📅 2026-08-12 - Proposals, standards and documentations related to Nervos Network.
-* [NEPs](https://github.com/near/NEPs) ⭐ 238 | 🐛 13 | 📅 2026-08-12 - NEAR Protocol Specifications and Standards.
+* [NEPs](https://github.com/near/NEPs) ⭐ 238 | 🐛 12 | 📅 2026-08-18 - NEAR Protocol Specifications and Standards.
 * [SNIPs](https://github.com/starknet-io/SNIPs) ⭐ 206 | 🐛 1 | 📅 2026-06-13 - Starknet Improvement Proposals.
-* [PIPs](https://github.com/maticnetwork/Polygon-Improvement-Proposals) ⭐ 120 | 🐛 11 | 📅 2026-07-30 - Polygon Improvement Proposals.
+* [PIPs](https://github.com/maticnetwork/Polygon-Improvement-Proposals) ⭐ 120 | 🐛 12 | 📅 2026-08-18 - Polygon Improvement Proposals.
 * [AIPs](https://github.com/aave/aip) ⚠️ Archived - Aave Improvement Proposals.
 * [MIPs](https://github.com/makerdao/mips) ⭐ 75 | 🐛 2 | 📅 2024-09-05 - Maker Improvement Proposals.
 * [BTIPs](https://github.com/bittorrent/BTIPs) ⭐ 26 | 🐛 24 | 📅 2025-09-24 - BitTorrent File System Improvement Proposals.
@@ -169,7 +169,7 @@
 * [FIPS](https://www.nist.gov/itl/publications-0/federal-information-processing-standards-fips) - Federal Information Processing Standards of the United States.
 * [PKCS](https://arxiv.org/pdf/1207.5446v1.pdf) - Public Key Cryptography Standards is group of standards devised and published by RSA Security LLC.
 * [FIDO Specifications](https://fidoalliance.org/specifications/) - Authentication standards that "help reduce the world's over-reliance on passwords".
-* [OWASP MASVS](https://github.com/OWASP/owasp-masvs) ⭐ 2,431 | 🐛 3 | 🌐 Python | 📅 2025-12-22 - Mobile Application Security Verification Standard is the industry standard for mobile app security.
+* [OWASP MASVS](https://github.com/OWASP/owasp-masvs) ⭐ 2,432 | 🐛 3 | 🌐 Python | 📅 2025-12-22 - Mobile Application Security Verification Standard is the industry standard for mobile app security.
 
 ## Operating Systems
 
@@ -237,10 +237,10 @@
 
 ## Related Awesome Lists
 
-* [Awesome Guidelines](https://github.com/Kristories/awesome-guidelines) ⭐ 11,039 | 🐛 0 | 🌐 JavaScript | 📅 2026-05-28 - Coding style conventions and standards.
+* [Awesome Guidelines](https://github.com/Kristories/awesome-guidelines) ⭐ 11,040 | 🐛 0 | 🌐 JavaScript | 📅 2026-05-28 - Coding style conventions and standards.
 * [Awesome API Devtools](https://github.com/yosriady/awesome-api-devtools) ⭐ 4,016 | 🐛 44 | 📅 2025-12-20 - A collection of useful resources for building RESTful HTTP+JSON APIs.
 * [Awesome Corporate Standards](https://github.com/openapi/awesome-corporate-standards) ⭐ 4 | 🐛 0 | 📅 2026-06-29 - International standards, frameworks, and certification bodies for organizations and businesses (quality, security, privacy, ESG, finance, and sector-specific compliance).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._

@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-17T17:50:55Z",
+            "last_commit": "2026-08-18T19:42:26Z",
             "owner": "grpc",
             "repo": "grpc",
-            "stars": 45226
+            "stars": 45227
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2026-08-05T00:07:38Z",
             "owner": "microsoft",
             "repo": "api-guidelines",
-            "stars": 23316
+            "stars": 23318
           }
         },
         {
@@ -56,7 +56,7 @@
             "last_commit": "2026-08-17T04:43:25Z",
             "owner": "apache",
             "repo": "thrift",
-            "stars": 10955
+            "stars": 10953
           }
         },
         {
@@ -70,7 +70,7 @@
             "last_commit": "2026-07-23T16:24:13Z",
             "owner": "cloudevents",
             "repo": "spec",
-            "stars": 5864
+            "stars": 5866
           }
         },
         {
@@ -160,7 +160,7 @@
             "last_commit": "2025-11-27T01:42:59Z",
             "owner": "ziglang",
             "repo": "zig",
-            "stars": 43316
+            "stars": 43315
           }
         },
         {
@@ -174,7 +174,7 @@
             "last_commit": "2026-08-04T15:21:11Z",
             "owner": "tc39",
             "repo": "proposals",
-            "stars": 19176
+            "stars": 19175
           }
         },
         {
@@ -185,10 +185,10 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-13T23:38:34Z",
+            "last_commit": "2026-08-18T15:47:32Z",
             "owner": "dotnet",
             "repo": "csharplang",
-            "stars": 12681
+            "stars": 12683
           }
         },
         {
@@ -199,7 +199,7 @@
           "repo_info": {
             "archived": false,
             "language": "Markdown",
-            "last_commit": "2026-08-12T15:23:17Z",
+            "last_commit": "2026-08-18T14:24:53Z",
             "owner": "Kotlin",
             "repo": "KEEP",
             "stars": 3758
@@ -230,7 +230,7 @@
             "last_commit": "2026-08-17T09:46:44Z",
             "owner": "dart-lang",
             "repo": "language",
-            "stars": 2931
+            "stars": 2932
           }
         },
         {
@@ -348,7 +348,7 @@
             "last_commit": "2024-06-11T05:12:52Z",
             "owner": "reactjs",
             "repo": "rfcs",
-            "stars": 5802
+            "stars": 5803
           }
         },
         {
@@ -373,10 +373,10 @@
           "repo_info": {
             "archived": false,
             "language": "Makefile",
-            "last_commit": "2026-08-17T16:25:50Z",
+            "last_commit": "2026-08-18T18:49:07Z",
             "owner": "open-telemetry",
             "repo": "opentelemetry-specification",
-            "stars": 4313
+            "stars": 4314
           }
         },
         {
@@ -603,10 +603,10 @@
           "repo_info": {
             "archived": false,
             "language": "Wikitext",
-            "last_commit": "2026-08-17T17:22:09Z",
+            "last_commit": "2026-08-17T21:33:24Z",
             "owner": "bitcoin",
             "repo": "bips",
-            "stars": 10917
+            "stars": 10919
           }
         },
         {
@@ -659,7 +659,7 @@
           "repo_info": {
             "archived": false,
             "language": "HTML",
-            "last_commit": "2026-03-03T15:35:50Z",
+            "last_commit": "2026-08-18T17:08:05Z",
             "owner": "ChainAgnostic",
             "repo": "CAIPs",
             "stars": 642
@@ -729,7 +729,7 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-08-12T18:51:21Z",
+            "last_commit": "2026-08-18T13:37:10Z",
             "owner": "near",
             "repo": "NEPs",
             "stars": 238
@@ -757,7 +757,7 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-07-30T16:08:43Z",
+            "last_commit": "2026-08-18T07:11:37Z",
             "owner": "0xPolygon",
             "repo": "Polygon-Improvement-Proposals",
             "stars": 120
@@ -822,7 +822,7 @@
             "last_commit": "2026-05-28T02:14:37Z",
             "owner": "Kristories",
             "repo": "awesome-guidelines",
-            "stars": 11039
+            "stars": 11040
           }
         },
         {
@@ -858,7 +858,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T19:49:59.231Z",
+    "last_updated": "2026-08-18T19:47:43.128Z",
     "original_repository": "donbarbos/awesome-standards",
     "original_repository_sha": "67f5107d84bdaf3d4d1ee6a681f1097fb10a12b8",
     "enhanced_repository": "enhansome/enhansome-standards",
