@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 27729880,
             "language": "C++",
-            "last_commit": "2026-08-18T19:42:26Z",
+            "last_commit": "2026-08-19T10:10:10Z",
             "owner": "grpc",
             "repo": "grpc",
-            "stars": 45227
+            "stars": 45231
           }
         },
         {
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 63188650,
             "language": null,
             "last_commit": "2026-08-05T00:07:38Z",
             "owner": "microsoft",
@@ -38,11 +40,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 96641209,
             "language": null,
             "last_commit": "2026-07-21T07:59:55Z",
             "owner": "shieldfy",
             "repo": "API-Security-Checklist",
-            "stars": 23299
+            "stars": 23301
           }
         },
         {
@@ -52,11 +55,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 310611,
             "language": "C++",
             "last_commit": "2026-08-17T04:43:25Z",
             "owner": "apache",
             "repo": "thrift",
-            "stars": 10953
+            "stars": 10954
           }
         },
         {
@@ -66,11 +70,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 113701924,
             "language": "Python",
             "last_commit": "2026-07-23T16:24:13Z",
             "owner": "cloudevents",
             "repo": "spec",
-            "stars": 5866
+            "stars": 5867
           }
         },
         {
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 13226404,
             "language": null,
             "last_commit": "2022-03-25T21:55:39Z",
             "owner": "raml-org",
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 165325153,
             "language": null,
             "last_commit": "2022-01-21T02:11:26Z",
             "owner": "omniti-labs",
@@ -108,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 4917422,
             "language": null,
             "last_commit": "2020-10-19T19:46:45Z",
             "owner": "kevinswiber",
@@ -122,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 101766313,
             "language": null,
             "last_commit": "2023-07-26T08:37:35Z",
             "owner": "openmessaging",
@@ -136,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 6197691,
             "language": null,
             "last_commit": "2024-08-23T16:57:41Z",
             "owner": "collection-json",
@@ -147,7 +157,7 @@
       "title": "APIs"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -156,11 +166,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 40276274,
             "language": "Zig",
             "last_commit": "2025-11-27T01:42:59Z",
             "owner": "ziglang",
             "repo": "zig",
-            "stars": 43315
+            "stars": 43317
           }
         },
         {
@@ -170,11 +181,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 58590700,
             "language": null,
             "last_commit": "2026-08-04T15:21:11Z",
             "owner": "tc39",
             "repo": "proposals",
-            "stars": 19175
+            "stars": 19176
           }
         },
         {
@@ -184,11 +196,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 75990888,
             "language": "C#",
-            "last_commit": "2026-08-18T15:47:32Z",
+            "last_commit": "2026-08-18T21:43:58Z",
             "owner": "dotnet",
             "repo": "csharplang",
-            "stars": 12683
+            "stars": 12686
           }
         },
         {
@@ -198,11 +211,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 54388526,
             "language": "Markdown",
             "last_commit": "2026-08-18T14:24:53Z",
             "owner": "Kotlin",
             "repo": "KEEP",
-            "stars": 3758
+            "stars": 3759
           }
         },
         {
@@ -212,11 +226,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 39874513,
             "language": "HTML",
             "last_commit": "2026-08-07T11:49:13Z",
             "owner": "golang",
             "repo": "proposal",
-            "stars": 3452
+            "stars": 3453
           }
         },
         {
@@ -226,6 +241,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 137279731,
             "language": "TeX",
             "last_commit": "2026-08-17T09:46:44Z",
             "owner": "dart-lang",
@@ -240,6 +256,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 62967877,
             "language": "Python",
             "last_commit": "2026-08-13T16:59:08Z",
             "owner": "ghc-proposals",
@@ -254,6 +271,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21203458,
             "language": "F#",
             "last_commit": "2026-08-13T12:06:38Z",
             "owner": "fsharp",
@@ -268,6 +286,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 213338633,
             "language": null,
             "last_commit": "2026-02-20T11:00:52Z",
             "owner": "ocaml",
@@ -282,6 +301,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 60406222,
             "language": "D",
             "last_commit": "2026-05-11T14:01:03Z",
             "owner": "dlang",
@@ -296,6 +316,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 373943335,
             "language": "Perl",
             "last_commit": "2026-08-10T21:34:07Z",
             "owner": "Perl",
@@ -310,6 +331,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 60344103,
             "language": null,
             "last_commit": "2025-01-15T12:11:38Z",
             "owner": "rocq-prover",
@@ -324,6 +346,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 194295160,
             "language": null,
             "last_commit": "2023-11-07T21:48:52Z",
             "owner": "vlang",
@@ -335,7 +358,7 @@
       "title": "Programming Languages"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -344,11 +367,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 113273337,
             "language": null,
             "last_commit": "2024-06-11T05:12:52Z",
             "owner": "reactjs",
             "repo": "rfcs",
-            "stars": 5803
+            "stars": 5804
           }
         },
         {
@@ -358,6 +382,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 161246367,
             "language": null,
             "last_commit": "2025-01-08T09:33:49Z",
             "owner": "vuejs",
@@ -372,11 +397,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 184463891,
             "language": "Makefile",
-            "last_commit": "2026-08-18T18:49:07Z",
+            "last_commit": "2026-08-18T19:52:15Z",
             "owner": "open-telemetry",
             "repo": "opentelemetry-specification",
-            "stars": 4314
+            "stars": 4315
           }
         },
         {
@@ -386,11 +412,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 227151548,
             "language": "Dockerfile",
             "last_commit": "2026-08-17T06:26:21Z",
             "owner": "compose-spec",
             "repo": "compose-spec",
-            "stars": 2720
+            "stars": 2721
           }
         },
         {
@@ -400,6 +427,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 141617160,
             "language": null,
             "last_commit": "2026-06-02T17:10:32Z",
             "owner": "react-native-community",
@@ -414,6 +442,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 77912374,
             "language": "JavaScript",
             "last_commit": "2026-03-21T10:28:57Z",
             "owner": "projectfluent",
@@ -428,6 +457,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 131072921,
             "language": "JavaScript",
             "last_commit": "2026-07-25T22:19:51Z",
             "owner": "npm",
@@ -442,6 +472,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 81662501,
             "language": "Markdown",
             "last_commit": "2026-06-04T19:39:06Z",
             "owner": "NixOS",
@@ -456,6 +487,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 18764735,
             "language": null,
             "last_commit": "2026-08-07T07:31:51Z",
             "owner": "django",
@@ -470,6 +502,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 95872745,
             "language": null,
             "last_commit": "2026-08-06T17:58:53Z",
             "owner": "helm",
@@ -484,6 +517,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 68416532,
             "language": null,
             "last_commit": "2024-01-06T17:52:20Z",
             "owner": "yarnpkg",
@@ -498,6 +532,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 381648584,
             "language": null,
             "last_commit": "2024-03-08T00:47:17Z",
             "owner": "line",
@@ -512,6 +547,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 155792808,
             "language": null,
             "last_commit": "2024-12-04T19:21:17Z",
             "owner": "sveltejs",
@@ -526,6 +562,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 265221356,
             "language": null,
             "last_commit": "2023-01-09T02:01:13Z",
             "owner": "openautocomplete",
@@ -540,6 +577,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 156903008,
             "language": null,
             "last_commit": "2026-07-13T09:36:49Z",
             "owner": "eslint",
@@ -554,6 +592,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 103302223,
             "language": "Shell",
             "last_commit": "2026-05-02T17:16:14Z",
             "owner": "jenkinsci",
@@ -568,6 +607,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 140339230,
             "language": null,
             "last_commit": "2026-07-24T08:33:18Z",
             "owner": "bazelbuild",
@@ -582,6 +622,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 381387852,
             "language": null,
             "last_commit": "2026-08-11T11:40:21Z",
             "owner": "conda",
@@ -593,7 +634,7 @@
       "title": "Tools"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -602,11 +643,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 14531737,
             "language": "Wikitext",
             "last_commit": "2026-08-17T21:33:24Z",
             "owner": "bitcoin",
             "repo": "bips",
-            "stars": 10919
+            "stars": 10922
           }
         },
         {
@@ -616,6 +658,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 73738971,
             "language": "Markdown",
             "last_commit": "2026-07-27T17:38:14Z",
             "owner": "lightning",
@@ -630,6 +673,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 68122771,
             "language": null,
             "last_commit": "2026-07-14T18:17:01Z",
             "owner": "libp2p",
@@ -644,6 +688,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 50844973,
             "language": "Markdown",
             "last_commit": "2026-08-13T22:14:54Z",
             "owner": "satoshilabs",
@@ -658,6 +703,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 205383452,
             "language": "HTML",
             "last_commit": "2026-08-18T17:08:05Z",
             "owner": "ChainAgnostic",
@@ -672,6 +718,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 202416100,
             "language": "Jupyter Notebook",
             "last_commit": "2026-07-13T21:24:51Z",
             "owner": "helium",
@@ -686,6 +733,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1117688616,
             "language": null,
             "last_commit": "2026-07-11T11:48:29Z",
             "owner": "hiero-ledger",
@@ -700,6 +748,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1543812,
             "language": "HTML",
             "last_commit": "2024-05-29T17:51:13Z",
             "owner": "bittorrent",
@@ -714,6 +763,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 122925447,
             "language": "Python",
             "last_commit": "2026-08-12T10:39:09Z",
             "owner": "nervosnetwork",
@@ -728,6 +778,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 190420860,
             "language": null,
             "last_commit": "2026-08-18T13:37:10Z",
             "owner": "near",
@@ -742,6 +793,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 499412067,
             "language": null,
             "last_commit": "2026-06-13T15:08:02Z",
             "owner": "starknet-io",
@@ -756,6 +808,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 604090446,
             "language": null,
             "last_commit": "2026-08-18T07:11:37Z",
             "owner": "0xPolygon",
@@ -770,6 +823,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 254112000,
             "language": "JavaScript",
             "last_commit": "2023-08-16T00:36:23Z",
             "owner": "aave",
@@ -784,6 +838,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 253096529,
             "language": null,
             "last_commit": "2024-09-05T20:03:21Z",
             "owner": "sky-ecosystem",
@@ -798,6 +853,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 541937127,
             "language": null,
             "last_commit": "2025-09-24T06:13:33Z",
             "owner": "bittorrent",
@@ -809,7 +865,7 @@
       "title": "Decentralized Systems"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -818,6 +874,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 97054975,
             "language": "JavaScript",
             "last_commit": "2026-05-28T02:14:37Z",
             "owner": "Kristories",
@@ -832,6 +889,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 37931557,
             "language": null,
             "last_commit": "2025-12-20T03:13:46Z",
             "owner": "yosriady",
@@ -846,6 +904,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1229604825,
             "language": null,
             "last_commit": "2026-06-29T17:52:19Z",
             "owner": "openapi",
@@ -858,8 +917,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T19:47:43.128Z",
+    "last_updated": "2026-08-19T12:52:14.960Z",
     "original_repository": "donbarbos/awesome-standards",
+    "original_repository_id": 902462871,
     "original_repository_sha": "67f5107d84bdaf3d4d1ee6a681f1097fb10a12b8",
     "enhanced_repository": "enhansome/enhansome-standards",
     "enhanced_repository_description": null,
