@@ -40,11 +40,11 @@
 
 ## APIs
 
-* [gRPC](https://github.com/grpc/grpc/blob/master/doc/PROTOCOL-HTTP2.md) ⭐ 45,231 | 🐛 1,376 | 🌐 C++ | 📅 2026-08-19 - This document serves as a detailed description for an implementation of gRPC carried over HTTP2 framing.
+* [gRPC](https://github.com/grpc/grpc/blob/master/doc/PROTOCOL-HTTP2.md) ⭐ 45,231 | 🐛 1,378 | 🌐 C++ | 📅 2026-08-19 - This document serves as a detailed description for an implementation of gRPC carried over HTTP2 framing.
 * [Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines) ⭐ 23,318 | 🐛 176 | 📅 2026-08-05 - Repository contains a collection of documents and related materials.
-* [API Security Checklist](https://github.com/shieldfy/API-Security-Checklist) ⭐ 23,301 | 🐛 2 | 📅 2026-07-21 - Checklist of the most important security countermeasures.
-* [Apache Thrift](https://github.com/apache/thrift/tree/master/doc/specs) ⭐ 10,954 | 🐛 13 | 🌐 C++ | 📅 2026-08-17 - Interface Definition Language and binary communication protocol used for defining and creating services for programming languages.
-* [CloudEvents Spec](https://github.com/cloudevents/spec) ⭐ 5,867 | 🐛 15 | 🌐 Python | 📅 2026-07-23 - A specification for describing event data in a common way.
+* [API Security Checklist](https://github.com/shieldfy/API-Security-Checklist) ⭐ 23,302 | 🐛 2 | 📅 2026-07-21 - Checklist of the most important security countermeasures.
+* [Apache Thrift](https://github.com/apache/thrift/tree/master/doc/specs) ⭐ 10,954 | 🐛 13 | 🌐 C++ | 📅 2026-08-19 - Interface Definition Language and binary communication protocol used for defining and creating services for programming languages.
+* [CloudEvents Spec](https://github.com/cloudevents/spec) ⭐ 5,868 | 🐛 15 | 🌐 Python | 📅 2026-07-23 - A specification for describing event data in a common way.
 * [RAML Spec](https://github.com/raml-org/raml-spec) ⚠️ Archived - RESTful API Modeling Language is a YAML based language for describing static APIs (but not REST APIs).
 * [JSEND](https://github.com/omniti-labs/jsend) ⭐ 1,726 | 🐛 9 | 📅 2022-01-21 - Specification for a simple, no-frills, JSON based format for application-level communication.
 * [Siren](https://github.com/kevinswiber/siren) ⭐ 1,344 | 🐛 38 | 📅 2020-10-19 - Structured Interface for Representing Entities, super-rad hypermedia, defines links and actions.
@@ -73,7 +73,7 @@
 
 ## Programming Languages
 
-* [Zig Proposals](https://github.com/ziglang/zig/issues?q=is:issue+is:open+label:proposal) ⭐ 43,317 | 🐛 2,852 | 🌐 Zig | 📅 2025-11-27 - Issues with Proposal label in Zig repository.
+* [Zig Proposals](https://github.com/ziglang/zig/issues?q=is:issue+is:open+label:proposal) ⭐ 43,316 | 🐛 2,852 | 🌐 Zig | 📅 2025-11-27 - Issues with Proposal label in Zig repository.
 * [ECMAScript Proposals](https://github.com/tc39/proposals) ⭐ 19,176 | 🐛 9 | 📅 2026-08-04 - Ecma TC39 (Technical Committee 39) is responsible for evolving the ECMAScript programming language and authoring the specification.
 * [C# Design](https://github.com/dotnet/csharplang) ⭐ 12,686 | 🐛 289 | 🌐 C# | 📅 2026-08-18 - C# Language Design Proposals.
 * [KEEP](https://github.com/Kotlin/KEEP) ⭐ 3,759 | 🐛 13 | 🌐 Markdown | 📅 2026-08-18 - Kotlin Evolution and Enhancement Process.
@@ -104,10 +104,10 @@
 
 ## Tools
 
-* [React RFCs](https://github.com/reactjs/rfcs) ⭐ 5,804 | 🐛 52 | 📅 2024-06-11 - Change requests for React.
-* [Vue RFCs](https://github.com/vuejs/rfcs) ⭐ 4,940 | 🐛 63 | 📅 2025-01-08 - Suggestions for major changes to Vue.js.
-* [OTEPs](https://github.com/open-telemetry/opentelemetry-specification/tree/main/oteps/) ⭐ 4,315 | 🐛 569 | 🌐 Makefile | 📅 2026-08-18 - OpenTelemetry Enhancement Proposals.
-* [Compose Specification](https://github.com/compose-spec/compose-spec) ⭐ 2,721 | 🐛 18 | 🌐 Dockerfile | 📅 2026-08-17 - The Compose Specification is developer focused for defining cloud and platform agnostic container-based applications.
+* [React RFCs](https://github.com/reactjs/rfcs) ⭐ 5,803 | 🐛 52 | 📅 2024-06-11 - Change requests for React.
+* [Vue RFCs](https://github.com/vuejs/rfcs) ⭐ 4,938 | 🐛 63 | 📅 2025-01-08 - Suggestions for major changes to Vue.js.
+* [OTEPs](https://github.com/open-telemetry/opentelemetry-specification/tree/main/oteps/) ⭐ 4,315 | 🐛 568 | 🌐 Makefile | 📅 2026-08-19 - OpenTelemetry Enhancement Proposals.
+* [Compose Specification](https://github.com/compose-spec/compose-spec) ⭐ 2,722 | 🐛 18 | 🌐 Dockerfile | 📅 2026-08-17 - The Compose Specification is developer focused for defining cloud and platform agnostic container-based applications.
 * [React Native RFCs](https://github.com/react-native-community/discussions-and-proposals) ⭐ 1,821 | 🐛 264 | 📅 2026-06-02 - React Native enhancement discussions.
 * [Fluent Specs](https://github.com/projectfluent/fluent) ⭐ 1,671 | 🐛 78 | 🌐 JavaScript | 📅 2026-03-21 - This repository contains the specification, the reference implementation of the parser and the documentation for Fluent.
 * [npm RFCs](https://github.com/npm/rfcs) ⭐ 776 | 🐛 180 | 🌐 JavaScript | 📅 2026-07-25 - Change proposals for npm.
@@ -121,7 +121,7 @@
 * [ESLint RFCs](https://github.com/eslint/rfcs) ⭐ 153 | 🐛 10 | 📅 2026-07-13 - Change requests for ESLint.
 * [JEPs](https://github.com/jenkinsci/jep) ⭐ 149 | 🐛 4 | 🌐 Shell | 📅 2026-05-02 - Jenkins Enhancement Proposals.
 * [Bazel Proposals](https://github.com/bazelbuild/proposals) ⭐ 136 | 🐛 10 | 📅 2026-07-24 - Index of all Bazel proposals and design documents.
-* [CEPs](https://github.com/conda/ceps) ⭐ 34 | 🐛 72 | 📅 2026-08-11 - Conda Enhancement Proposals.
+* [CEPs](https://github.com/conda/ceps) ⭐ 34 | 🐛 73 | 📅 2026-08-11 - Conda Enhancement Proposals.
 * [Ember RFCs](https://rfcs.emberjs.com/) - Standards for Ember.js framework evolution.
 * [SLEPs](https://scikit-learn-enhancement-proposals.readthedocs.io/en/latest/) - Enhancement proposals for scikit-learn.
 * [JEPs](https://jupyter.org/enhancement-proposals) - Jupyter Ecosystem Enhancement Proposals.
@@ -136,7 +136,7 @@
 
 ## Decentralized Systems
 
-* [BIPs](https://github.com/bitcoin/bips) ⭐ 10,922 | 🐛 52 | 🌐 Wikitext | 📅 2026-08-17 - Bitcoin Improvement Proposals.
+* [BIPs](https://github.com/bitcoin/bips) ⭐ 10,923 | 🐛 52 | 🌐 Wikitext | 📅 2026-08-19 - Bitcoin Improvement Proposals.
 * [BOLTs](https://github.com/lightning/bolts) ⭐ 2,248 | 🐛 40 | 🌐 Markdown | 📅 2026-07-27 - Basis of Lightning Technology (Lightning Network Specifications).
 * [LibP2P Specs](https://github.com/libp2p/specs) ⭐ 1,777 | 🐛 193 | 📅 2026-07-14 - Technical specifications for the libp2p networking stack.
 * [SLIPs](https://github.com/satoshilabs/slips) ⭐ 1,689 | 🐛 7 | 🌐 Markdown | 📅 2026-08-13 - SatoshiLabs Improvement Proposals.
@@ -169,7 +169,7 @@
 * [FIPS](https://www.nist.gov/itl/publications-0/federal-information-processing-standards-fips) - Federal Information Processing Standards of the United States.
 * [PKCS](https://arxiv.org/pdf/1207.5446v1.pdf) - Public Key Cryptography Standards is group of standards devised and published by RSA Security LLC.
 * [FIDO Specifications](https://fidoalliance.org/specifications/) - Authentication standards that "help reduce the world's over-reliance on passwords".
-* [OWASP MASVS](https://github.com/OWASP/owasp-masvs) ⭐ 2,432 | 🐛 3 | 🌐 Python | 📅 2025-12-22 - Mobile Application Security Verification Standard is the industry standard for mobile app security.
+* [OWASP MASVS](https://github.com/OWASP/owasp-masvs) ⭐ 2,434 | 🐛 3 | 🌐 Python | 📅 2025-12-22 - Mobile Application Security Verification Standard is the industry standard for mobile app security.
 
 ## Operating Systems
 
@@ -237,7 +237,7 @@
 
 ## Related Awesome Lists
 
-* [Awesome Guidelines](https://github.com/Kristories/awesome-guidelines) ⭐ 11,040 | 🐛 0 | 🌐 JavaScript | 📅 2026-05-28 - Coding style conventions and standards.
+* [Awesome Guidelines](https://github.com/Kristories/awesome-guidelines) ⭐ 11,042 | 🐛 0 | 🌐 JavaScript | 📅 2026-05-28 - Coding style conventions and standards.
 * [Awesome API Devtools](https://github.com/yosriady/awesome-api-devtools) ⭐ 4,016 | 🐛 44 | 📅 2025-12-20 - A collection of useful resources for building RESTful HTTP+JSON APIs.
 * [Awesome Corporate Standards](https://github.com/openapi/awesome-corporate-standards) ⭐ 4 | 🐛 0 | 📅 2026-06-29 - International standards, frameworks, and certification bodies for organizations and businesses (quality, security, privacy, ESG, finance, and sector-specific compliance).
 

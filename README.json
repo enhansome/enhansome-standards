@@ -12,7 +12,7 @@
             "archived": false,
             "id": 27729880,
             "language": "C++",
-            "last_commit": "2026-08-19T10:10:10Z",
+            "last_commit": "2026-08-19T19:44:25Z",
             "owner": "grpc",
             "repo": "grpc",
             "stars": 45231
@@ -45,7 +45,7 @@
             "last_commit": "2026-07-21T07:59:55Z",
             "owner": "shieldfy",
             "repo": "API-Security-Checklist",
-            "stars": 23301
+            "stars": 23302
           }
         },
         {
@@ -57,7 +57,7 @@
             "archived": false,
             "id": 310611,
             "language": "C++",
-            "last_commit": "2026-08-17T04:43:25Z",
+            "last_commit": "2026-08-19T18:39:17Z",
             "owner": "apache",
             "repo": "thrift",
             "stars": 10954
@@ -75,7 +75,7 @@
             "last_commit": "2026-07-23T16:24:13Z",
             "owner": "cloudevents",
             "repo": "spec",
-            "stars": 5867
+            "stars": 5868
           }
         },
         {
@@ -171,7 +171,7 @@
             "last_commit": "2025-11-27T01:42:59Z",
             "owner": "ziglang",
             "repo": "zig",
-            "stars": 43317
+            "stars": 43316
           }
         },
         {
@@ -372,7 +372,7 @@
             "last_commit": "2024-06-11T05:12:52Z",
             "owner": "reactjs",
             "repo": "rfcs",
-            "stars": 5804
+            "stars": 5803
           }
         },
         {
@@ -387,7 +387,7 @@
             "last_commit": "2025-01-08T09:33:49Z",
             "owner": "vuejs",
             "repo": "rfcs",
-            "stars": 4940
+            "stars": 4938
           }
         },
         {
@@ -399,7 +399,7 @@
             "archived": false,
             "id": 184463891,
             "language": "Makefile",
-            "last_commit": "2026-08-18T19:52:15Z",
+            "last_commit": "2026-08-19T17:12:45Z",
             "owner": "open-telemetry",
             "repo": "opentelemetry-specification",
             "stars": 4315
@@ -417,7 +417,7 @@
             "last_commit": "2026-08-17T06:26:21Z",
             "owner": "compose-spec",
             "repo": "compose-spec",
-            "stars": 2721
+            "stars": 2722
           }
         },
         {
@@ -645,10 +645,10 @@
             "archived": false,
             "id": 14531737,
             "language": "Wikitext",
-            "last_commit": "2026-08-17T21:33:24Z",
+            "last_commit": "2026-08-19T15:18:29Z",
             "owner": "bitcoin",
             "repo": "bips",
-            "stars": 10922
+            "stars": 10923
           }
         },
         {
@@ -879,7 +879,7 @@
             "last_commit": "2026-05-28T02:14:37Z",
             "owner": "Kristories",
             "repo": "awesome-guidelines",
-            "stars": 11040
+            "stars": 11042
           }
         },
         {
@@ -917,7 +917,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:52:14.960Z",
+    "last_updated": "2026-08-19T19:48:04.719Z",
     "original_repository": "donbarbos/awesome-standards",
     "original_repository_id": 902462871,
     "original_repository_sha": "67f5107d84bdaf3d4d1ee6a681f1097fb10a12b8",
