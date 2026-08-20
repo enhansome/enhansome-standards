@@ -12,10 +12,10 @@
             "archived": false,
             "id": 27729880,
             "language": "C++",
-            "last_commit": "2026-08-19T19:44:25Z",
+            "last_commit": "2026-08-20T18:56:35Z",
             "owner": "grpc",
             "repo": "grpc",
-            "stars": 45231
+            "stars": 45229
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-05T00:07:38Z",
             "owner": "microsoft",
             "repo": "api-guidelines",
-            "stars": 23318
+            "stars": 23319
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-07-21T07:59:55Z",
             "owner": "shieldfy",
             "repo": "API-Security-Checklist",
-            "stars": 23302
+            "stars": 23301
           }
         },
         {
@@ -57,7 +57,7 @@
             "archived": false,
             "id": 310611,
             "language": "C++",
-            "last_commit": "2026-08-19T18:39:17Z",
+            "last_commit": "2026-08-20T14:01:42Z",
             "owner": "apache",
             "repo": "thrift",
             "stars": 10954
@@ -75,7 +75,7 @@
             "last_commit": "2026-07-23T16:24:13Z",
             "owner": "cloudevents",
             "repo": "spec",
-            "stars": 5868
+            "stars": 5870
           }
         },
         {
@@ -171,7 +171,7 @@
             "last_commit": "2025-11-27T01:42:59Z",
             "owner": "ziglang",
             "repo": "zig",
-            "stars": 43316
+            "stars": 43314
           }
         },
         {
@@ -186,7 +186,7 @@
             "last_commit": "2026-08-04T15:21:11Z",
             "owner": "tc39",
             "repo": "proposals",
-            "stars": 19176
+            "stars": 19177
           }
         },
         {
@@ -201,7 +201,7 @@
             "last_commit": "2026-08-18T21:43:58Z",
             "owner": "dotnet",
             "repo": "csharplang",
-            "stars": 12686
+            "stars": 12688
           }
         },
         {
@@ -231,7 +231,7 @@
             "last_commit": "2026-08-07T11:49:13Z",
             "owner": "golang",
             "repo": "proposal",
-            "stars": 3453
+            "stars": 3454
           }
         },
         {
@@ -243,7 +243,7 @@
             "archived": false,
             "id": 137279731,
             "language": "TeX",
-            "last_commit": "2026-08-17T09:46:44Z",
+            "last_commit": "2026-08-20T15:29:13Z",
             "owner": "dart-lang",
             "repo": "language",
             "stars": 2932
@@ -402,7 +402,7 @@
             "last_commit": "2026-08-19T17:12:45Z",
             "owner": "open-telemetry",
             "repo": "opentelemetry-specification",
-            "stars": 4315
+            "stars": 4316
           }
         },
         {
@@ -537,7 +537,7 @@
             "last_commit": "2024-03-08T00:47:17Z",
             "owner": "line",
             "repo": "headver",
-            "stars": 298
+            "stars": 299
           }
         },
         {
@@ -645,10 +645,10 @@
             "archived": false,
             "id": 14531737,
             "language": "Wikitext",
-            "last_commit": "2026-08-19T15:18:29Z",
+            "last_commit": "2026-08-20T17:14:27Z",
             "owner": "bitcoin",
             "repo": "bips",
-            "stars": 10923
+            "stars": 10922
           }
         },
         {
@@ -879,7 +879,7 @@
             "last_commit": "2026-05-28T02:14:37Z",
             "owner": "Kristories",
             "repo": "awesome-guidelines",
-            "stars": 11042
+            "stars": 11048
           }
         },
         {
@@ -917,7 +917,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T19:48:04.719Z",
+    "last_updated": "2026-08-20T19:54:13.867Z",
     "original_repository": "donbarbos/awesome-standards",
     "original_repository_id": 902462871,
     "original_repository_sha": "67f5107d84bdaf3d4d1ee6a681f1097fb10a12b8",
