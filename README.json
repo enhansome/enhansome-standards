@@ -12,10 +12,10 @@
             "archived": false,
             "id": 27729880,
             "language": "C++",
-            "last_commit": "2026-08-20T18:56:35Z",
+            "last_commit": "2026-08-21T19:12:34Z",
             "owner": "grpc",
             "repo": "grpc",
-            "stars": 45229
+            "stars": 45238
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-05T00:07:38Z",
             "owner": "microsoft",
             "repo": "api-guidelines",
-            "stars": 23319
+            "stars": 23321
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-07-21T07:59:55Z",
             "owner": "shieldfy",
             "repo": "API-Security-Checklist",
-            "stars": 23301
+            "stars": 23302
           }
         },
         {
@@ -57,10 +57,10 @@
             "archived": false,
             "id": 310611,
             "language": "C++",
-            "last_commit": "2026-08-20T14:01:42Z",
+            "last_commit": "2026-08-21T16:02:56Z",
             "owner": "apache",
             "repo": "thrift",
-            "stars": 10954
+            "stars": 10955
           }
         },
         {
@@ -171,7 +171,7 @@
             "last_commit": "2025-11-27T01:42:59Z",
             "owner": "ziglang",
             "repo": "zig",
-            "stars": 43314
+            "stars": 43303
           }
         },
         {
@@ -186,7 +186,7 @@
             "last_commit": "2026-08-04T15:21:11Z",
             "owner": "tc39",
             "repo": "proposals",
-            "stars": 19177
+            "stars": 19179
           }
         },
         {
@@ -198,10 +198,10 @@
             "archived": false,
             "id": 75990888,
             "language": "C#",
-            "last_commit": "2026-08-18T21:43:58Z",
+            "last_commit": "2026-08-21T07:20:24Z",
             "owner": "dotnet",
             "repo": "csharplang",
-            "stars": 12688
+            "stars": 12689
           }
         },
         {
@@ -216,7 +216,7 @@
             "last_commit": "2026-08-18T14:24:53Z",
             "owner": "Kotlin",
             "repo": "KEEP",
-            "stars": 3759
+            "stars": 3758
           }
         },
         {
@@ -243,7 +243,7 @@
             "archived": false,
             "id": 137279731,
             "language": "TeX",
-            "last_commit": "2026-08-20T15:29:13Z",
+            "last_commit": "2026-08-21T08:09:01Z",
             "owner": "dart-lang",
             "repo": "language",
             "stars": 2932
@@ -372,7 +372,7 @@
             "last_commit": "2024-06-11T05:12:52Z",
             "owner": "reactjs",
             "repo": "rfcs",
-            "stars": 5803
+            "stars": 5806
           }
         },
         {
@@ -417,7 +417,7 @@
             "last_commit": "2026-08-17T06:26:21Z",
             "owner": "compose-spec",
             "repo": "compose-spec",
-            "stars": 2722
+            "stars": 2721
           }
         },
         {
@@ -624,7 +624,7 @@
             "archived": false,
             "id": 381387852,
             "language": null,
-            "last_commit": "2026-08-11T11:40:21Z",
+            "last_commit": "2026-08-21T16:07:02Z",
             "owner": "conda",
             "repo": "ceps",
             "stars": 34
@@ -690,7 +690,7 @@
             "archived": false,
             "id": 50844973,
             "language": "Markdown",
-            "last_commit": "2026-08-13T22:14:54Z",
+            "last_commit": "2026-08-21T12:01:00Z",
             "owner": "satoshilabs",
             "repo": "slips",
             "stars": 1689
@@ -720,7 +720,7 @@
             "archived": false,
             "id": 202416100,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-07-13T21:24:51Z",
+            "last_commit": "2026-08-21T12:54:49Z",
             "owner": "helium",
             "repo": "HIP",
             "stars": 588
@@ -879,7 +879,7 @@
             "last_commit": "2026-05-28T02:14:37Z",
             "owner": "Kristories",
             "repo": "awesome-guidelines",
-            "stars": 11048
+            "stars": 11055
           }
         },
         {
@@ -917,7 +917,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T19:54:13.867Z",
+    "last_updated": "2026-08-21T19:46:39.947Z",
     "original_repository": "donbarbos/awesome-standards",
     "original_repository_id": 902462871,
     "original_repository_sha": "67f5107d84bdaf3d4d1ee6a681f1097fb10a12b8",
