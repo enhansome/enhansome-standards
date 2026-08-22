@@ -12,10 +12,10 @@
             "archived": false,
             "id": 27729880,
             "language": "C++",
-            "last_commit": "2026-08-21T19:12:34Z",
+            "last_commit": "2026-08-21T23:28:56Z",
             "owner": "grpc",
             "repo": "grpc",
-            "stars": 45238
+            "stars": 45243
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-05T00:07:38Z",
             "owner": "microsoft",
             "repo": "api-guidelines",
-            "stars": 23321
+            "stars": 23322
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-07-21T07:59:55Z",
             "owner": "shieldfy",
             "repo": "API-Security-Checklist",
-            "stars": 23302
+            "stars": 23304
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-07-23T16:24:13Z",
             "owner": "cloudevents",
             "repo": "spec",
-            "stars": 5870
+            "stars": 5872
           }
         },
         {
@@ -171,7 +171,7 @@
             "last_commit": "2025-11-27T01:42:59Z",
             "owner": "ziglang",
             "repo": "zig",
-            "stars": 43303
+            "stars": 43297
           }
         },
         {
@@ -201,7 +201,7 @@
             "last_commit": "2026-08-21T07:20:24Z",
             "owner": "dotnet",
             "repo": "csharplang",
-            "stars": 12689
+            "stars": 12691
           }
         },
         {
@@ -276,7 +276,7 @@
             "last_commit": "2026-08-13T12:06:38Z",
             "owner": "fsharp",
             "repo": "fslang-design",
-            "stars": 551
+            "stars": 553
           }
         },
         {
@@ -372,7 +372,7 @@
             "last_commit": "2024-06-11T05:12:52Z",
             "owner": "reactjs",
             "repo": "rfcs",
-            "stars": 5806
+            "stars": 5807
           }
         },
         {
@@ -402,7 +402,7 @@
             "last_commit": "2026-08-19T17:12:45Z",
             "owner": "open-telemetry",
             "repo": "opentelemetry-specification",
-            "stars": 4316
+            "stars": 4319
           }
         },
         {
@@ -447,7 +447,7 @@
             "last_commit": "2026-03-21T10:28:57Z",
             "owner": "projectfluent",
             "repo": "fluent",
-            "stars": 1671
+            "stars": 1673
           }
         },
         {
@@ -648,7 +648,7 @@
             "last_commit": "2026-08-20T17:14:27Z",
             "owner": "bitcoin",
             "repo": "bips",
-            "stars": 10922
+            "stars": 10925
           }
         },
         {
@@ -720,7 +720,7 @@
             "archived": false,
             "id": 202416100,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-21T12:54:49Z",
+            "last_commit": "2026-08-21T23:22:36Z",
             "owner": "helium",
             "repo": "HIP",
             "stars": 588
@@ -879,7 +879,7 @@
             "last_commit": "2026-05-28T02:14:37Z",
             "owner": "Kristories",
             "repo": "awesome-guidelines",
-            "stars": 11055
+            "stars": 11056
           }
         },
         {
@@ -917,7 +917,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T19:46:39.947Z",
+    "last_updated": "2026-08-22T19:44:24.257Z",
     "original_repository": "donbarbos/awesome-standards",
     "original_repository_id": 902462871,
     "original_repository_sha": "67f5107d84bdaf3d4d1ee6a681f1097fb10a12b8",
