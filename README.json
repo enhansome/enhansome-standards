@@ -12,10 +12,10 @@
             "archived": false,
             "id": 27729880,
             "language": "C++",
-            "last_commit": "2026-08-24T09:10:04Z",
+            "last_commit": "2026-08-24T17:37:16Z",
             "owner": "grpc",
             "repo": "grpc",
-            "stars": 45251
+            "stars": 45252
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-05T00:07:38Z",
             "owner": "microsoft",
             "repo": "api-guidelines",
-            "stars": 23323
+            "stars": 23324
           }
         },
         {
@@ -243,7 +243,7 @@
             "archived": false,
             "id": 137279731,
             "language": "TeX",
-            "last_commit": "2026-08-24T12:16:31Z",
+            "last_commit": "2026-08-24T15:34:08Z",
             "owner": "dart-lang",
             "repo": "language",
             "stars": 2932
@@ -399,7 +399,7 @@
             "archived": false,
             "id": 184463891,
             "language": "Makefile",
-            "last_commit": "2026-08-24T01:01:42Z",
+            "last_commit": "2026-08-24T16:38:08Z",
             "owner": "open-telemetry",
             "repo": "opentelemetry-specification",
             "stars": 4322
@@ -663,7 +663,7 @@
             "last_commit": "2026-07-27T17:38:14Z",
             "owner": "lightning",
             "repo": "bolts",
-            "stars": 2247
+            "stars": 2246
           }
         },
         {
@@ -720,7 +720,7 @@
             "archived": false,
             "id": 202416100,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-21T23:22:36Z",
+            "last_commit": "2026-08-24T19:38:42Z",
             "owner": "helium",
             "repo": "HIP",
             "stars": 588
@@ -917,7 +917,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:30:38.324Z",
+    "last_updated": "2026-08-24T19:53:23.356Z",
     "original_repository": "donbarbos/awesome-standards",
     "original_repository_id": 902462871,
     "original_repository_sha": "67f5107d84bdaf3d4d1ee6a681f1097fb10a12b8",
