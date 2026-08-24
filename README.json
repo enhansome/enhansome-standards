@@ -12,10 +12,10 @@
             "archived": false,
             "id": 27729880,
             "language": "C++",
-            "last_commit": "2026-08-23T17:45:34Z",
+            "last_commit": "2026-08-24T09:10:04Z",
             "owner": "grpc",
             "repo": "grpc",
-            "stars": 45249
+            "stars": 45251
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-05T00:07:38Z",
             "owner": "microsoft",
             "repo": "api-guidelines",
-            "stars": 23321
+            "stars": 23323
           }
         },
         {
@@ -57,10 +57,10 @@
             "archived": false,
             "id": 310611,
             "language": "C++",
-            "last_commit": "2026-08-22T20:51:24Z",
+            "last_commit": "2026-08-24T14:23:19Z",
             "owner": "apache",
             "repo": "thrift",
-            "stars": 10954
+            "stars": 10952
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-07-23T16:24:13Z",
             "owner": "cloudevents",
             "repo": "spec",
-            "stars": 5873
+            "stars": 5875
           }
         },
         {
@@ -171,7 +171,7 @@
             "last_commit": "2025-11-27T01:42:59Z",
             "owner": "ziglang",
             "repo": "zig",
-            "stars": 43298
+            "stars": 43297
           }
         },
         {
@@ -186,7 +186,7 @@
             "last_commit": "2026-08-04T15:21:11Z",
             "owner": "tc39",
             "repo": "proposals",
-            "stars": 19178
+            "stars": 19177
           }
         },
         {
@@ -216,7 +216,7 @@
             "last_commit": "2026-08-18T14:24:53Z",
             "owner": "Kotlin",
             "repo": "KEEP",
-            "stars": 3758
+            "stars": 3757
           }
         },
         {
@@ -231,7 +231,7 @@
             "last_commit": "2026-08-07T11:49:13Z",
             "owner": "golang",
             "repo": "proposal",
-            "stars": 3454
+            "stars": 3455
           }
         },
         {
@@ -243,7 +243,7 @@
             "archived": false,
             "id": 137279731,
             "language": "TeX",
-            "last_commit": "2026-08-21T08:09:01Z",
+            "last_commit": "2026-08-24T12:16:31Z",
             "owner": "dart-lang",
             "repo": "language",
             "stars": 2932
@@ -261,7 +261,7 @@
             "last_commit": "2026-08-13T16:59:08Z",
             "owner": "ghc-proposals",
             "repo": "ghc-proposals",
-            "stars": 706
+            "stars": 707
           }
         },
         {
@@ -399,10 +399,10 @@
             "archived": false,
             "id": 184463891,
             "language": "Makefile",
-            "last_commit": "2026-08-19T17:12:45Z",
+            "last_commit": "2026-08-24T01:01:42Z",
             "owner": "open-telemetry",
             "repo": "opentelemetry-specification",
-            "stars": 4320
+            "stars": 4322
           }
         },
         {
@@ -417,7 +417,7 @@
             "last_commit": "2026-08-17T06:26:21Z",
             "owner": "compose-spec",
             "repo": "compose-spec",
-            "stars": 2721
+            "stars": 2722
           }
         },
         {
@@ -663,7 +663,7 @@
             "last_commit": "2026-07-27T17:38:14Z",
             "owner": "lightning",
             "repo": "bolts",
-            "stars": 2248
+            "stars": 2247
           }
         },
         {
@@ -678,7 +678,7 @@
             "last_commit": "2026-08-23T18:42:19Z",
             "owner": "libp2p",
             "repo": "specs",
-            "stars": 1777
+            "stars": 1776
           }
         },
         {
@@ -879,7 +879,7 @@
             "last_commit": "2026-05-28T02:14:37Z",
             "owner": "Kristories",
             "repo": "awesome-guidelines",
-            "stars": 11061
+            "stars": 11063
           }
         },
         {
@@ -917,7 +917,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T19:44:18.308Z",
+    "last_updated": "2026-08-24T14:30:38.324Z",
     "original_repository": "donbarbos/awesome-standards",
     "original_repository_id": 902462871,
     "original_repository_sha": "67f5107d84bdaf3d4d1ee6a681f1097fb10a12b8",
