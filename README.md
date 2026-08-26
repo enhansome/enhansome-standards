@@ -40,11 +40,11 @@
 
 ## APIs
 
-* [gRPC](https://github.com/grpc/grpc/blob/master/doc/PROTOCOL-HTTP2.md) ⭐ 45,260 | 🐛 1,379 | 🌐 C++ | 📅 2026-08-25 - This document serves as a detailed description for an implementation of gRPC carried over HTTP2 framing.
-* [Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines) ⭐ 23,325 | 🐛 176 | 📅 2026-08-05 - Repository contains a collection of documents and related materials.
+* [gRPC](https://github.com/grpc/grpc/blob/master/doc/PROTOCOL-HTTP2.md) ⭐ 45,262 | 🐛 1,373 | 🌐 C++ | 📅 2026-08-26 - This document serves as a detailed description for an implementation of gRPC carried over HTTP2 framing.
+* [Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines) ⭐ 23,327 | 🐛 176 | 📅 2026-08-05 - Repository contains a collection of documents and related materials.
 * [API Security Checklist](https://github.com/shieldfy/API-Security-Checklist) ⭐ 23,306 | 🐛 2 | 📅 2026-07-21 - Checklist of the most important security countermeasures.
-* [Apache Thrift](https://github.com/apache/thrift/tree/master/doc/specs) ⭐ 10,952 | 🐛 14 | 🌐 C++ | 📅 2026-08-24 - Interface Definition Language and binary communication protocol used for defining and creating services for programming languages.
-* [CloudEvents Spec](https://github.com/cloudevents/spec) ⭐ 5,876 | 🐛 16 | 🌐 Python | 📅 2026-07-23 - A specification for describing event data in a common way.
+* [Apache Thrift](https://github.com/apache/thrift/tree/master/doc/specs) ⭐ 10,953 | 🐛 15 | 🌐 C++ | 📅 2026-08-24 - Interface Definition Language and binary communication protocol used for defining and creating services for programming languages.
+* [CloudEvents Spec](https://github.com/cloudevents/spec) ⭐ 5,878 | 🐛 16 | 🌐 Python | 📅 2026-07-23 - A specification for describing event data in a common way.
 * [RAML Spec](https://github.com/raml-org/raml-spec) ⚠️ Archived - RESTful API Modeling Language is a YAML based language for describing static APIs (but not REST APIs).
 * [JSEND](https://github.com/omniti-labs/jsend) ⭐ 1,726 | 🐛 9 | 📅 2022-01-21 - Specification for a simple, no-frills, JSON based format for application-level communication.
 * [Siren](https://github.com/kevinswiber/siren) ⭐ 1,344 | 🐛 38 | 📅 2020-10-19 - Structured Interface for Representing Entities, super-rad hypermedia, defines links and actions.
@@ -73,7 +73,7 @@
 
 ## Programming Languages
 
-* [Zig Proposals](https://github.com/ziglang/zig/issues?q=is:issue+is:open+label:proposal) ⭐ 43,296 | 🐛 2,837 | 🌐 Zig | 📅 2025-11-27 - Issues with Proposal label in Zig repository.
+* [Zig Proposals](https://github.com/ziglang/zig/issues?q=is:issue+is:open+label:proposal) ⭐ 43,300 | 🐛 2,837 | 🌐 Zig | 📅 2025-11-27 - Issues with Proposal label in Zig repository.
 * [ECMAScript Proposals](https://github.com/tc39/proposals) ⭐ 19,177 | 🐛 9 | 📅 2026-08-04 - Ecma TC39 (Technical Committee 39) is responsible for evolving the ECMAScript programming language and authoring the specification.
 * [C# Design](https://github.com/dotnet/csharplang) ⭐ 12,693 | 🐛 289 | 🌐 C# | 📅 2026-08-21 - C# Language Design Proposals.
 * [KEEP](https://github.com/Kotlin/KEEP) ⭐ 3,758 | 🐛 12 | 🌐 Markdown | 📅 2026-08-25 - Kotlin Evolution and Enhancement Process.
@@ -83,7 +83,7 @@
 * [F# Design](https://github.com/fsharp/fslang-design) ⭐ 553 | 🐛 26 | 🌐 F# | 📅 2026-08-13 - F# Language Design RFCs.
 * [OCaml RFCs](https://github.com/ocaml/RFCs) ⭐ 178 | 🐛 32 | 📅 2026-02-20 - Design discussions about the OCaml language.
 * [DIPs](https://github.com/dlang/DIPs) ⭐ 164 | 🐛 10 | 🌐 D | 📅 2026-05-11 - D language Improvement Proposals.
-* [PPCs](https://github.com/Perl/PPCs) ⭐ 79 | 🐛 16 | 🌐 Perl | 📅 2026-08-10 - Proposed Perl Changes is proposals to change the Perl language.
+* [PPCs](https://github.com/Perl/PPCs) ⭐ 79 | 🐛 15 | 🌐 Perl | 📅 2026-08-26 - Proposed Perl Changes is proposals to change the Perl language.
 * [CEPs](https://github.com/coq/ceps) ⭐ 64 | 🐛 56 | 📅 2025-01-15 - Coq Enhancement Proposals.
 * [Vlang RFCs](https://github.com/vlang/rfcs) ⭐ 47 | 🐛 15 | 📅 2023-11-07 - RFCs for changes to V lang.
 * [PEPs](https://peps.python.org/) - Python Enhancement Proposals for language improvements.
@@ -106,10 +106,10 @@
 
 * [React RFCs](https://github.com/reactjs/rfcs) ⭐ 5,807 | 🐛 51 | 📅 2024-06-11 - Change requests for React.
 * [Vue RFCs](https://github.com/vuejs/rfcs) ⭐ 4,938 | 🐛 63 | 📅 2025-01-08 - Suggestions for major changes to Vue.js.
-* [OTEPs](https://github.com/open-telemetry/opentelemetry-specification/tree/main/oteps/) ⭐ 4,324 | 🐛 479 | 🌐 Makefile | 📅 2026-08-24 - OpenTelemetry Enhancement Proposals.
+* [OTEPs](https://github.com/open-telemetry/opentelemetry-specification/tree/main/oteps/) ⭐ 4,325 | 🐛 479 | 🌐 Makefile | 📅 2026-08-26 - OpenTelemetry Enhancement Proposals.
 * [Compose Specification](https://github.com/compose-spec/compose-spec) ⭐ 2,722 | 🐛 18 | 🌐 Dockerfile | 📅 2026-08-17 - The Compose Specification is developer focused for defining cloud and platform agnostic container-based applications.
 * [React Native RFCs](https://github.com/react-native-community/discussions-and-proposals) ⭐ 1,821 | 🐛 264 | 📅 2026-06-02 - React Native enhancement discussions.
-* [Fluent Specs](https://github.com/projectfluent/fluent) ⭐ 1,673 | 🐛 78 | 🌐 JavaScript | 📅 2026-03-21 - This repository contains the specification, the reference implementation of the parser and the documentation for Fluent.
+* [Fluent Specs](https://github.com/projectfluent/fluent) ⭐ 1,674 | 🐛 78 | 🌐 JavaScript | 📅 2026-03-21 - This repository contains the specification, the reference implementation of the parser and the documentation for Fluent.
 * [npm RFCs](https://github.com/npm/rfcs) ⭐ 776 | 🐛 180 | 🌐 JavaScript | 📅 2026-07-25 - Change proposals for npm.
 * [Nix RFCs](https://github.com/NixOS/rfcs) ⭐ 654 | 🐛 27 | 🌐 Markdown | 📅 2026-06-04 - The Nix community RFCs.
 * [DEPs](https://github.com/django/deps) ⭐ 528 | 🐛 17 | 📅 2026-08-07 - Django Enhancement Proposals.
@@ -136,13 +136,13 @@
 
 ## Decentralized Systems
 
-* [BIPs](https://github.com/bitcoin/bips) ⭐ 10,927 | 🐛 54 | 🌐 Wikitext | 📅 2026-08-20 - Bitcoin Improvement Proposals.
-* [BOLTs](https://github.com/lightning/bolts) ⭐ 2,247 | 🐛 40 | 🌐 Markdown | 📅 2026-07-27 - Basis of Lightning Technology (Lightning Network Specifications).
+* [BIPs](https://github.com/bitcoin/bips) ⭐ 10,928 | 🐛 54 | 🌐 Wikitext | 📅 2026-08-20 - Bitcoin Improvement Proposals.
+* [BOLTs](https://github.com/lightning/bolts) ⭐ 2,248 | 🐛 40 | 🌐 Markdown | 📅 2026-08-26 - Basis of Lightning Technology (Lightning Network Specifications).
 * [LibP2P Specs](https://github.com/libp2p/specs) ⭐ 1,776 | 🐛 195 | 📅 2026-08-23 - Technical specifications for the libp2p networking stack.
-* [SLIPs](https://github.com/satoshilabs/slips) ⭐ 1,689 | 🐛 9 | 🌐 Markdown | 📅 2026-08-21 - SatoshiLabs Improvement Proposals.
+* [SLIPs](https://github.com/satoshilabs/slips) ⭐ 1,689 | 🐛 9 | 🌐 Markdown | 📅 2026-08-26 - SatoshiLabs Improvement Proposals.
 * [CAIPs](https://github.com/ChainAgnostic/CAIPs) ⭐ 643 | 🐛 97 | 🌐 HTML | 📅 2026-08-18 - Chain Agnostic Improvement Proposals.
-* [HIPs](https://github.com/helium/HIP) ⭐ 588 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2026-08-24 - Helium Improvement Proposals.
-* [HCS](https://github.com/hiero-ledger/hiero-consensus-specifications) ⭐ 563 | 🐛 11 | 📅 2026-07-11 - Hiero Consensus Standards.
+* [HIPs](https://github.com/helium/HIP) ⭐ 588 | 🐛 6 | 🌐 Jupyter Notebook | 📅 2026-08-24 - Helium Improvement Proposals.
+* [HCS](https://github.com/hiero-ledger/hiero-consensus-specifications) ⭐ 562 | 🐛 11 | 📅 2026-07-11 - Hiero Consensus Standards.
 * [BEPs](https://github.com/bittorrent/bittorrent.org) ⭐ 441 | 🐛 87 | 🌐 HTML | 📅 2024-05-29 - BitTorrent Enhancement Proposals.
 * [Nervos Network RFCs](https://github.com/nervosnetwork/rfcs) ⭐ 270 | 🐛 27 | 🌐 Python | 📅 2026-08-12 - Proposals, standards and documentations related to Nervos Network.
 * [NEPs](https://github.com/near/NEPs) ⭐ 238 | 🐛 13 | 📅 2026-08-18 - NEAR Protocol Specifications and Standards.
@@ -237,10 +237,10 @@
 
 ## Related Awesome Lists
 
-* [Awesome Guidelines](https://github.com/Kristories/awesome-guidelines) ⭐ 11,064 | 🐛 0 | 🌐 JavaScript | 📅 2026-05-28 - Coding style conventions and standards.
+* [Awesome Guidelines](https://github.com/Kristories/awesome-guidelines) ⭐ 11,067 | 🐛 0 | 🌐 JavaScript | 📅 2026-05-28 - Coding style conventions and standards.
 * [Awesome API Devtools](https://github.com/yosriady/awesome-api-devtools) ⭐ 4,016 | 🐛 44 | 📅 2025-12-20 - A collection of useful resources for building RESTful HTTP+JSON APIs.
 * [Awesome Corporate Standards](https://github.com/openapi/awesome-corporate-standards) ⭐ 4 | 🐛 0 | 📅 2026-06-29 - International standards, frameworks, and certification bodies for organizations and businesses (quality, security, privacy, ESG, finance, and sector-specific compliance).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._

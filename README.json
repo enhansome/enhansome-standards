@@ -12,10 +12,10 @@
             "archived": false,
             "id": 27729880,
             "language": "C++",
-            "last_commit": "2026-08-25T17:00:57Z",
+            "last_commit": "2026-08-26T21:43:49Z",
             "owner": "grpc",
             "repo": "grpc",
-            "stars": 45260
+            "stars": 45262
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-05T00:07:38Z",
             "owner": "microsoft",
             "repo": "api-guidelines",
-            "stars": 23325
+            "stars": 23327
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-08-24T14:23:19Z",
             "owner": "apache",
             "repo": "thrift",
-            "stars": 10952
+            "stars": 10953
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-07-23T16:24:13Z",
             "owner": "cloudevents",
             "repo": "spec",
-            "stars": 5876
+            "stars": 5878
           }
         },
         {
@@ -171,7 +171,7 @@
             "last_commit": "2025-11-27T01:42:59Z",
             "owner": "ziglang",
             "repo": "zig",
-            "stars": 43296
+            "stars": 43300
           }
         },
         {
@@ -318,7 +318,7 @@
             "archived": false,
             "id": 373943335,
             "language": "Perl",
-            "last_commit": "2026-08-10T21:34:07Z",
+            "last_commit": "2026-08-26T14:14:10Z",
             "owner": "Perl",
             "repo": "PPCs",
             "stars": 79
@@ -399,10 +399,10 @@
             "archived": false,
             "id": 184463891,
             "language": "Makefile",
-            "last_commit": "2026-08-24T20:22:05Z",
+            "last_commit": "2026-08-26T03:57:46Z",
             "owner": "open-telemetry",
             "repo": "opentelemetry-specification",
-            "stars": 4324
+            "stars": 4325
           }
         },
         {
@@ -447,7 +447,7 @@
             "last_commit": "2026-03-21T10:28:57Z",
             "owner": "projectfluent",
             "repo": "fluent",
-            "stars": 1673
+            "stars": 1674
           }
         },
         {
@@ -648,7 +648,7 @@
             "last_commit": "2026-08-20T17:14:27Z",
             "owner": "bitcoin",
             "repo": "bips",
-            "stars": 10927
+            "stars": 10928
           }
         },
         {
@@ -660,10 +660,10 @@
             "archived": false,
             "id": 73738971,
             "language": "Markdown",
-            "last_commit": "2026-07-27T17:38:14Z",
+            "last_commit": "2026-08-26T06:50:01Z",
             "owner": "lightning",
             "repo": "bolts",
-            "stars": 2247
+            "stars": 2248
           }
         },
         {
@@ -690,7 +690,7 @@
             "archived": false,
             "id": 50844973,
             "language": "Markdown",
-            "last_commit": "2026-08-21T12:01:00Z",
+            "last_commit": "2026-08-26T16:27:26Z",
             "owner": "satoshilabs",
             "repo": "slips",
             "stars": 1689
@@ -738,7 +738,7 @@
             "last_commit": "2026-07-11T11:48:29Z",
             "owner": "hiero-ledger",
             "repo": "hiero-consensus-specifications",
-            "stars": 563
+            "stars": 562
           }
         },
         {
@@ -879,7 +879,7 @@
             "last_commit": "2026-05-28T02:14:37Z",
             "owner": "Kristories",
             "repo": "awesome-guidelines",
-            "stars": 11064
+            "stars": 11067
           }
         },
         {
@@ -917,7 +917,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T19:54:28.166Z",
+    "last_updated": "2026-08-26T22:22:27.143Z",
     "original_repository": "donbarbos/awesome-standards",
     "original_repository_id": 902462871,
     "original_repository_sha": "67f5107d84bdaf3d4d1ee6a681f1097fb10a12b8",
