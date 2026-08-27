@@ -12,10 +12,10 @@
             "archived": false,
             "id": 27729880,
             "language": "C++",
-            "last_commit": "2026-08-26T21:43:49Z",
+            "last_commit": "2026-08-27T09:48:21Z",
             "owner": "grpc",
             "repo": "grpc",
-            "stars": 45262
+            "stars": 45266
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-05T00:07:38Z",
             "owner": "microsoft",
             "repo": "api-guidelines",
-            "stars": 23327
+            "stars": 23328
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-08-24T14:23:19Z",
             "owner": "apache",
             "repo": "thrift",
-            "stars": 10953
+            "stars": 10954
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-07-23T16:24:13Z",
             "owner": "cloudevents",
             "repo": "spec",
-            "stars": 5878
+            "stars": 5876
           }
         },
         {
@@ -171,7 +171,7 @@
             "last_commit": "2025-11-27T01:42:59Z",
             "owner": "ziglang",
             "repo": "zig",
-            "stars": 43300
+            "stars": 43303
           }
         },
         {
@@ -231,7 +231,7 @@
             "last_commit": "2026-08-07T11:49:13Z",
             "owner": "golang",
             "repo": "proposal",
-            "stars": 3455
+            "stars": 3456
           }
         },
         {
@@ -372,7 +372,7 @@
             "last_commit": "2024-06-11T05:12:52Z",
             "owner": "reactjs",
             "repo": "rfcs",
-            "stars": 5807
+            "stars": 5806
           }
         },
         {
@@ -387,7 +387,7 @@
             "last_commit": "2025-01-08T09:33:49Z",
             "owner": "vuejs",
             "repo": "rfcs",
-            "stars": 4938
+            "stars": 4939
           }
         },
         {
@@ -399,10 +399,10 @@
             "archived": false,
             "id": 184463891,
             "language": "Makefile",
-            "last_commit": "2026-08-26T03:57:46Z",
+            "last_commit": "2026-08-27T02:54:48Z",
             "owner": "open-telemetry",
             "repo": "opentelemetry-specification",
-            "stars": 4325
+            "stars": 4324
           }
         },
         {
@@ -417,7 +417,7 @@
             "last_commit": "2026-08-17T06:26:21Z",
             "owner": "compose-spec",
             "repo": "compose-spec",
-            "stars": 2722
+            "stars": 2723
           }
         },
         {
@@ -432,7 +432,7 @@
             "last_commit": "2026-06-02T17:10:32Z",
             "owner": "react-native-community",
             "repo": "discussions-and-proposals",
-            "stars": 1821
+            "stars": 1822
           }
         },
         {
@@ -492,7 +492,7 @@
             "last_commit": "2026-08-07T07:31:51Z",
             "owner": "django",
             "repo": "deps",
-            "stars": 528
+            "stars": 529
           }
         },
         {
@@ -582,7 +582,7 @@
             "last_commit": "2026-07-13T09:36:49Z",
             "owner": "eslint",
             "repo": "rfcs",
-            "stars": 153
+            "stars": 154
           }
         },
         {
@@ -879,7 +879,7 @@
             "last_commit": "2026-05-28T02:14:37Z",
             "owner": "Kristories",
             "repo": "awesome-guidelines",
-            "stars": 11067
+            "stars": 11069
           }
         },
         {
@@ -917,9 +917,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T22:22:27.143Z",
-    "original_repository": "donbarbos/awesome-standards",
-    "original_repository_id": 902462871,
+    "last_updated": "2026-08-27T12:05:30.005Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 902462871,
+      "language": null,
+      "last_commit": "2026-07-18T18:35:01Z",
+      "owner": "donbarbos",
+      "repo": "awesome-standards",
+      "stars": 234
+    },
     "original_repository_sha": "67f5107d84bdaf3d4d1ee6a681f1097fb10a12b8",
     "enhanced_repository": "enhansome/enhansome-standards",
     "enhanced_repository_description": null,
