@@ -12,10 +12,10 @@
             "archived": false,
             "id": 27729880,
             "language": "C++",
-            "last_commit": "2026-08-27T09:48:21Z",
+            "last_commit": "2026-08-27T23:08:09Z",
             "owner": "grpc",
             "repo": "grpc",
-            "stars": 45266
+            "stars": 45268
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-05T00:07:38Z",
             "owner": "microsoft",
             "repo": "api-guidelines",
-            "stars": 23328
+            "stars": 23331
           }
         },
         {
@@ -57,7 +57,7 @@
             "archived": false,
             "id": 310611,
             "language": "C++",
-            "last_commit": "2026-08-24T14:23:19Z",
+            "last_commit": "2026-08-28T00:10:35Z",
             "owner": "apache",
             "repo": "thrift",
             "stars": 10954
@@ -72,10 +72,10 @@
             "archived": false,
             "id": 113701924,
             "language": "Python",
-            "last_commit": "2026-07-23T16:24:13Z",
+            "last_commit": "2026-08-27T16:10:53Z",
             "owner": "cloudevents",
             "repo": "spec",
-            "stars": 5876
+            "stars": 5877
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2022-03-25T21:55:39Z",
             "owner": "raml-org",
             "repo": "raml-spec",
-            "stars": 3847
+            "stars": 3848
           }
         },
         {
@@ -171,7 +171,7 @@
             "last_commit": "2025-11-27T01:42:59Z",
             "owner": "ziglang",
             "repo": "zig",
-            "stars": 43303
+            "stars": 43306
           }
         },
         {
@@ -201,7 +201,7 @@
             "last_commit": "2026-08-21T07:20:24Z",
             "owner": "dotnet",
             "repo": "csharplang",
-            "stars": 12693
+            "stars": 12694
           }
         },
         {
@@ -216,7 +216,7 @@
             "last_commit": "2026-08-25T16:45:01Z",
             "owner": "Kotlin",
             "repo": "KEEP",
-            "stars": 3758
+            "stars": 3760
           }
         },
         {
@@ -243,7 +243,7 @@
             "archived": false,
             "id": 137279731,
             "language": "TeX",
-            "last_commit": "2026-08-25T17:36:21Z",
+            "last_commit": "2026-08-27T23:49:43Z",
             "owner": "dart-lang",
             "repo": "language",
             "stars": 2931
@@ -399,10 +399,10 @@
             "archived": false,
             "id": 184463891,
             "language": "Makefile",
-            "last_commit": "2026-08-27T02:54:48Z",
+            "last_commit": "2026-08-27T20:34:54Z",
             "owner": "open-telemetry",
             "repo": "opentelemetry-specification",
-            "stars": 4324
+            "stars": 4328
           }
         },
         {
@@ -492,7 +492,7 @@
             "last_commit": "2026-08-07T07:31:51Z",
             "owner": "django",
             "repo": "deps",
-            "stars": 529
+            "stars": 530
           }
         },
         {
@@ -579,7 +579,7 @@
             "archived": false,
             "id": 156903008,
             "language": null,
-            "last_commit": "2026-07-13T09:36:49Z",
+            "last_commit": "2026-08-27T21:48:55Z",
             "owner": "eslint",
             "repo": "rfcs",
             "stars": 154
@@ -690,7 +690,7 @@
             "archived": false,
             "id": 50844973,
             "language": "Markdown",
-            "last_commit": "2026-08-26T16:27:26Z",
+            "last_commit": "2026-08-27T15:57:58Z",
             "owner": "satoshilabs",
             "repo": "slips",
             "stars": 1689
@@ -708,7 +708,7 @@
             "last_commit": "2026-08-18T17:08:05Z",
             "owner": "ChainAgnostic",
             "repo": "CAIPs",
-            "stars": 643
+            "stars": 644
           }
         },
         {
@@ -879,7 +879,7 @@
             "last_commit": "2026-05-28T02:14:37Z",
             "owner": "Kristories",
             "repo": "awesome-guidelines",
-            "stars": 11069
+            "stars": 11072
           }
         },
         {
@@ -917,7 +917,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:05:30.005Z",
+    "last_updated": "2026-08-28T03:38:04.906Z",
     "original_repository_info": {
       "archived": false,
       "id": 902462871,
