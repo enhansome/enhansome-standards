@@ -40,7 +40,7 @@
 
 ## APIs
 
-* [gRPC](https://github.com/grpc/grpc/blob/master/doc/PROTOCOL-HTTP2.md) ⭐ 45,271 | 🐛 1,362 | 🌐 C++ | 📅 2026-08-28 - This document serves as a detailed description for an implementation of gRPC carried over HTTP2 framing.
+* [gRPC](https://github.com/grpc/grpc/blob/master/doc/PROTOCOL-HTTP2.md) ⭐ 45,271 | 🐛 1,362 | 🌐 C++ | 📅 2026-08-29 - This document serves as a detailed description for an implementation of gRPC carried over HTTP2 framing.
 * [Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines) ⭐ 23,332 | 🐛 176 | 📅 2026-08-05 - Repository contains a collection of documents and related materials.
 * [API Security Checklist](https://github.com/shieldfy/API-Security-Checklist) ⭐ 23,306 | 🐛 2 | 📅 2026-07-21 - Checklist of the most important security countermeasures.
 * [Apache Thrift](https://github.com/apache/thrift/tree/master/doc/specs) ⭐ 10,954 | 🐛 16 | 🌐 C++ | 📅 2026-08-28 - Interface Definition Language and binary communication protocol used for defining and creating services for programming languages.
@@ -73,14 +73,14 @@
 
 ## Programming Languages
 
-* [Zig Proposals](https://github.com/ziglang/zig/issues?q=is:issue+is:open+label:proposal) ⭐ 43,302 | 🐛 2,835 | 🌐 Zig | 📅 2025-11-27 - Issues with Proposal label in Zig repository.
+* [Zig Proposals](https://github.com/ziglang/zig/issues?q=is:issue+is:open+label:proposal) ⭐ 43,303 | 🐛 2,835 | 🌐 Zig | 📅 2025-11-27 - Issues with Proposal label in Zig repository.
 * [ECMAScript Proposals](https://github.com/tc39/proposals) ⭐ 19,178 | 🐛 9 | 📅 2026-08-04 - Ecma TC39 (Technical Committee 39) is responsible for evolving the ECMAScript programming language and authoring the specification.
 * [C# Design](https://github.com/dotnet/csharplang) ⭐ 12,696 | 🐛 289 | 🌐 C# | 📅 2026-08-21 - C# Language Design Proposals.
 * [KEEP](https://github.com/Kotlin/KEEP) ⭐ 3,760 | 🐛 12 | 🌐 Markdown | 📅 2026-08-28 - Kotlin Evolution and Enhancement Process.
 * [Go Proposals](https://github.com/golang/proposal) ⭐ 3,456 | 🐛 5 | 🌐 HTML | 📅 2026-08-07 - Design discussions for Go language evolution.
 * [Dart Design](https://github.com/dart-lang/language) ⭐ 2,931 | 🐛 1,325 | 🌐 TeX | 📅 2026-08-27 - Design of the Dart language.
 * [GHC Proposals](https://github.com/ghc-proposals/ghc-proposals) ⭐ 707 | 🐛 197 | 🌐 Python | 📅 2026-08-13 - Compiler and language changes for Haskell/GHC.
-* [F# Design](https://github.com/fsharp/fslang-design) ⭐ 553 | 🐛 32 | 🌐 F# | 📅 2026-08-13 - F# Language Design RFCs.
+* [F# Design](https://github.com/fsharp/fslang-design) ⭐ 553 | 🐛 31 | 🌐 F# | 📅 2026-08-13 - F# Language Design RFCs.
 * [OCaml RFCs](https://github.com/ocaml/RFCs) ⭐ 178 | 🐛 32 | 📅 2026-02-20 - Design discussions about the OCaml language.
 * [DIPs](https://github.com/dlang/DIPs) ⭐ 165 | 🐛 10 | 🌐 D | 📅 2026-05-11 - D language Improvement Proposals.
 * [PPCs](https://github.com/Perl/PPCs) ⭐ 79 | 🐛 15 | 🌐 Perl | 📅 2026-08-26 - Proposed Perl Changes is proposals to change the Perl language.
@@ -104,9 +104,9 @@
 
 ## Tools
 
-* [React RFCs](https://github.com/reactjs/rfcs) ⭐ 5,806 | 🐛 51 | 📅 2024-06-11 - Change requests for React.
+* [React RFCs](https://github.com/reactjs/rfcs) ⭐ 5,807 | 🐛 51 | 📅 2024-06-11 - Change requests for React.
 * [Vue RFCs](https://github.com/vuejs/rfcs) ⭐ 4,939 | 🐛 63 | 📅 2025-01-08 - Suggestions for major changes to Vue.js.
-* [OTEPs](https://github.com/open-telemetry/opentelemetry-specification/tree/main/oteps/) ⭐ 4,330 | 🐛 479 | 🌐 Makefile | 📅 2026-08-27 - OpenTelemetry Enhancement Proposals.
+* [OTEPs](https://github.com/open-telemetry/opentelemetry-specification/tree/main/oteps/) ⭐ 4,330 | 🐛 458 | 🌐 Makefile | 📅 2026-08-27 - OpenTelemetry Enhancement Proposals.
 * [Compose Specification](https://github.com/compose-spec/compose-spec) ⭐ 2,723 | 🐛 18 | 🌐 Dockerfile | 📅 2026-08-17 - The Compose Specification is developer focused for defining cloud and platform agnostic container-based applications.
 * [React Native RFCs](https://github.com/react-native-community/discussions-and-proposals) ⭐ 1,822 | 🐛 264 | 📅 2026-06-02 - React Native enhancement discussions.
 * [Fluent Specs](https://github.com/projectfluent/fluent) ⭐ 1,674 | 🐛 78 | 🌐 JavaScript | 📅 2026-03-21 - This repository contains the specification, the reference implementation of the parser and the documentation for Fluent.

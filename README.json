@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)",
+            "homepage": "https://grpc.io",
             "id": 27729880,
             "language": "C++",
-            "last_commit": "2026-08-28T23:56:12Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T03:27:11Z",
+            "open_issues": 1362,
             "owner": "grpc",
             "repo": "grpc",
-            "stars": 45271
+            "stars": 45271,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:21:20.623Z"
         },
@@ -26,12 +31,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Microsoft REST API Guidelines",
+            "homepage": null,
             "id": 63188650,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2026-08-05T00:07:38Z",
+            "open_issues": 176,
             "owner": "microsoft",
             "repo": "api-guidelines",
-            "stars": 23332
+            "stars": 23332,
+            "topics": [
+              "api",
+              "guidelines",
+              "rest-api",
+              "styleguide"
+            ]
           },
           "first_seen": "2026-08-29T02:21:20.623Z"
         },
@@ -42,12 +57,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Checklist of the most important security countermeasures when designing, testing, and releasing your API",
+            "homepage": null,
             "id": 96641209,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-21T07:59:55Z",
+            "open_issues": 2,
             "owner": "shieldfy",
             "repo": "API-Security-Checklist",
-            "stars": 23306
+            "stars": 23306,
+            "topics": [
+              "api",
+              "jwt",
+              "oauth2",
+              "security"
+            ]
           },
           "first_seen": "2026-08-29T02:21:20.623Z"
         },
@@ -58,12 +83,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Apache Thrift",
+            "homepage": null,
             "id": 310611,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T23:10:25Z",
+            "open_issues": 16,
             "owner": "apache",
             "repo": "thrift",
-            "stars": 10954
+            "stars": 10954,
+            "topics": [
+              "actionscript",
+              "c",
+              "cplusplus",
+              "csharp",
+              "d",
+              "dart",
+              "http",
+              "library",
+              "network-client",
+              "network-server",
+              "thrift"
+            ]
           },
           "first_seen": "2026-08-29T02:21:20.623Z"
         },
@@ -74,12 +116,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CloudEvents Specification",
+            "homepage": "https://cloudevents.io",
             "id": 113701924,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T16:10:53Z",
+            "open_issues": 15,
             "owner": "cloudevents",
             "repo": "spec",
-            "stars": 5877
+            "stars": 5877,
+            "topics": [
+              "serverless",
+              "specification"
+            ]
           },
           "first_seen": "2026-08-29T02:21:20.623Z"
         },
@@ -90,12 +140,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "RAML Specification",
+            "homepage": "http://raml.org",
             "id": 13226404,
             "language": null,
+            "license": null,
             "last_commit": "2022-03-25T21:55:39Z",
+            "open_issues": 226,
             "owner": "raml-org",
             "repo": "raml-spec",
-            "stars": 3848
+            "stars": 3848,
+            "topics": [
+              "api-definition",
+              "api-documentation",
+              "raml",
+              "raml-specification"
+            ]
           },
           "first_seen": "2026-08-29T02:21:20.623Z"
         },
@@ -106,12 +166,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JSend is a specification for a simple, no-frills, JSON based format for application-level communication.",
+            "homepage": null,
             "id": 165325153,
             "language": null,
+            "license": "BSD-3-Clause",
             "last_commit": "2022-01-21T02:11:26Z",
+            "open_issues": 9,
             "owner": "omniti-labs",
             "repo": "jsend",
-            "stars": 1726
+            "stars": 1726,
+            "topics": [
+              "json"
+            ]
           },
           "first_seen": "2026-08-29T02:21:20.623Z"
         },
@@ -122,12 +189,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Structured Interface for Representing Entities, super-rad hypermedia",
+            "homepage": null,
             "id": 4917422,
             "language": null,
+            "license": "MIT",
             "last_commit": "2020-10-19T19:46:45Z",
+            "open_issues": 38,
             "owner": "kevinswiber",
             "repo": "siren",
-            "stars": 1344
+            "stars": 1344,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:21:20.623Z"
         },
@@ -138,12 +210,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OpenMessaging Specification",
+            "homepage": null,
             "id": 101766313,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2023-07-26T08:37:35Z",
+            "open_issues": 5,
             "owner": "openmessaging",
             "repo": "specification",
-            "stars": 287
+            "stars": 287,
+            "topics": [
+              "asynchronous",
+              "batch",
+              "filtering",
+              "metrics",
+              "multi-tenant",
+              "oneway",
+              "pull",
+              "push",
+              "queue",
+              "routing",
+              "specification",
+              "streaming",
+              "tracing",
+              "transaction"
+            ]
           },
           "first_seen": "2026-08-29T02:21:20.623Z"
         },
@@ -154,12 +246,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Collection+JSON Specification",
+            "homepage": null,
             "id": 6197691,
             "language": null,
+            "license": null,
             "last_commit": "2024-08-23T16:57:41Z",
+            "open_issues": 12,
             "owner": "collection-json",
             "repo": "spec",
-            "stars": 173
+            "stars": 173,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:21:20.623Z"
         }
@@ -176,12 +273,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Moved to Codeberg",
+            "homepage": "https://ziglang.org/news/migrating-from-github-to-codeberg/",
             "id": 40276274,
             "language": "Zig",
+            "license": "MIT",
             "last_commit": "2025-11-27T01:42:59Z",
+            "open_issues": 2835,
             "owner": "ziglang",
             "repo": "zig",
-            "stars": 43302
+            "stars": 43303,
+            "topics": [
+              "compiler",
+              "language",
+              "zig"
+            ]
           },
           "first_seen": "2026-08-29T02:21:20.623Z"
         },
@@ -192,12 +298,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tracking ECMAScript Proposals",
+            "homepage": "https://tc39.github.io/process-document/",
             "id": 58590700,
             "language": null,
+            "license": null,
             "last_commit": "2026-08-04T15:21:11Z",
+            "open_issues": 9,
             "owner": "tc39",
             "repo": "proposals",
-            "stars": 19178
+            "stars": 19178,
+            "topics": [
+              "committee",
+              "ecmascript",
+              "javascript",
+              "language",
+              "language-design",
+              "proposal",
+              "spec",
+              "specification"
+            ]
           },
           "first_seen": "2026-08-29T02:21:20.623Z"
         },
@@ -208,12 +328,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The official repo for the design of the C# programming language",
+            "homepage": null,
             "id": 75990888,
             "language": "C#",
+            "license": null,
             "last_commit": "2026-08-21T07:20:24Z",
+            "open_issues": 289,
             "owner": "dotnet",
             "repo": "csharplang",
-            "stars": 12696
+            "stars": 12696,
+            "topics": [
+              "csharp",
+              "language-design"
+            ]
           },
           "first_seen": "2026-08-29T02:21:20.623Z"
         },
@@ -224,12 +352,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Kotlin Evolution and Enhancement Process",
+            "homepage": "https://kotlinlang.org/docs/kotlin-language-features-and-proposals.html",
             "id": 54388526,
             "language": "Markdown",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T08:06:07Z",
+            "open_issues": 12,
             "owner": "Kotlin",
             "repo": "KEEP",
-            "stars": 3760
+            "stars": 3760,
+            "topics": [
+              "evolution",
+              "kotlin",
+              "language"
+            ]
           },
           "first_seen": "2026-08-29T02:21:20.623Z"
         },
@@ -240,12 +377,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Go Project Design Documents",
+            "homepage": null,
             "id": 39874513,
             "language": "HTML",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-07T11:49:13Z",
+            "open_issues": 5,
             "owner": "golang",
             "repo": "proposal",
-            "stars": 3456
+            "stars": 3456,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:21:20.623Z"
         },
@@ -256,12 +398,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Design of the Dart language",
+            "homepage": null,
             "id": 137279731,
             "language": "TeX",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T23:49:43Z",
+            "open_issues": 1325,
             "owner": "dart-lang",
             "repo": "language",
-            "stars": 2931
+            "stars": 2931,
+            "topics": [
+              "dart-language",
+              "language-changes",
+              "specification"
+            ]
           },
           "first_seen": "2026-08-29T02:21:20.623Z"
         },
@@ -272,12 +423,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Proposed compiler and language changes for GHC and GHC/Haskell",
+            "homepage": "http://www.haskell.org/ghc",
             "id": 62967877,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-08-13T16:59:08Z",
+            "open_issues": 197,
             "owner": "ghc-proposals",
             "repo": "ghc-proposals",
-            "stars": 707
+            "stars": 707,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:21:20.623Z"
         },
@@ -288,12 +444,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "RFCs and docs related to the F# language design process, see https://github.com/fsharp/fslang-suggestions to submit ideas ",
+            "homepage": null,
             "id": 21203458,
             "language": "F#",
+            "license": null,
             "last_commit": "2026-08-13T12:06:38Z",
+            "open_issues": 31,
             "owner": "fsharp",
             "repo": "fslang-design",
-            "stars": 553
+            "stars": 553,
+            "topics": [
+              "fsharp",
+              "language-design",
+              "programming-language",
+              "rfc"
+            ]
           },
           "first_seen": "2026-08-29T02:21:20.623Z"
         },
@@ -304,12 +470,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Design discussions about the OCaml language",
+            "homepage": null,
             "id": 213338633,
             "language": null,
+            "license": null,
             "last_commit": "2026-02-20T11:00:52Z",
+            "open_issues": 32,
             "owner": "ocaml",
             "repo": "RFCs",
-            "stars": 178
+            "stars": 178,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:21:20.623Z"
         },
@@ -320,12 +491,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "D Improvement Proposals",
+            "homepage": null,
             "id": 60406222,
             "language": "D",
+            "license": "CC0-1.0",
             "last_commit": "2026-05-11T14:01:03Z",
+            "open_issues": 10,
             "owner": "dlang",
             "repo": "DIPs",
-            "stars": 165
+            "stars": 165,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:21:20.623Z"
         },
@@ -336,12 +512,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repository is for Proposed Perl Changes - proposals to change the Perl language.",
+            "homepage": "https://perl.github.io/PPCs/",
             "id": 373943335,
             "language": "Perl",
+            "license": null,
             "last_commit": "2026-08-26T14:14:10Z",
+            "open_issues": 15,
             "owner": "Perl",
             "repo": "PPCs",
-            "stars": 79
+            "stars": 79,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:21:20.623Z"
         },
@@ -352,12 +533,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rocq RFCs: documents to discuss changes to the Rocq Prover",
+            "homepage": null,
             "id": 60344103,
             "language": null,
+            "license": null,
             "last_commit": "2025-01-15T12:11:38Z",
+            "open_issues": 56,
             "owner": "rocq-prover",
             "repo": "rfcs",
-            "stars": 64
+            "stars": 64,
+            "topics": [
+              "rfc",
+              "rocq-prover"
+            ]
           },
           "first_seen": "2026-08-29T02:21:20.623Z"
         },
@@ -368,12 +557,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "RFCs for changes to V",
+            "homepage": null,
             "id": 194295160,
             "language": null,
+            "license": "MIT",
             "last_commit": "2023-11-07T21:48:52Z",
+            "open_issues": 15,
             "owner": "vlang",
             "repo": "rfcs",
-            "stars": 47
+            "stars": 47,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:21:20.623Z"
         }
@@ -390,12 +584,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "RFCs for changes to React",
+            "homepage": null,
             "id": 113273337,
             "language": null,
+            "license": "MIT",
             "last_commit": "2024-06-11T05:12:52Z",
+            "open_issues": 51,
             "owner": "reactjs",
             "repo": "rfcs",
-            "stars": 5806
+            "stars": 5807,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:21:20.623Z"
         },
@@ -406,12 +605,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "RFCs for substantial changes / feature additions to Vue core",
+            "homepage": null,
             "id": 161246367,
             "language": null,
+            "license": null,
             "last_commit": "2025-01-08T09:33:49Z",
+            "open_issues": 63,
             "owner": "vuejs",
             "repo": "rfcs",
-            "stars": 4939
+            "stars": 4939,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:21:20.623Z"
         },
@@ -422,12 +626,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Specifications for OpenTelemetry",
+            "homepage": "https://opentelemetry.io",
             "id": 184463891,
             "language": "Makefile",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T20:34:54Z",
+            "open_issues": 458,
             "owner": "open-telemetry",
             "repo": "opentelemetry-specification",
-            "stars": 4330
+            "stars": 4330,
+            "topics": [
+              "opentelemetry"
+            ]
           },
           "first_seen": "2026-08-29T02:21:20.623Z"
         },
@@ -438,12 +649,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Compose specification",
+            "homepage": "https://compose-spec.io",
             "id": 227151548,
             "language": "Dockerfile",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-17T06:26:21Z",
+            "open_issues": 18,
             "owner": "compose-spec",
             "repo": "compose-spec",
-            "stars": 2723
+            "stars": 2723,
+            "topics": [
+              "compose",
+              "containers",
+              "docker",
+              "kubernetes",
+              "specification"
+            ]
           },
           "first_seen": "2026-08-29T02:21:20.623Z"
         },
@@ -454,12 +676,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Discussions and proposals related to the main React Native project",
+            "homepage": "https://reactnative.dev",
             "id": 141617160,
             "language": null,
+            "license": null,
             "last_commit": "2026-06-02T17:10:32Z",
+            "open_issues": 264,
             "owner": "react-native-community",
             "repo": "discussions-and-proposals",
-            "stars": 1822
+            "stars": 1822,
+            "topics": [
+              "discussion-board",
+              "proposals",
+              "react-native",
+              "rfc"
+            ]
           },
           "first_seen": "2026-08-29T02:21:20.623Z"
         },
@@ -470,12 +702,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fluent — planning, spec and documentation",
+            "homepage": "https://projectfluent.org",
             "id": 77912374,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-03-21T10:28:57Z",
+            "open_issues": 78,
             "owner": "projectfluent",
             "repo": "fluent",
-            "stars": 1674
+            "stars": 1674,
+            "topics": [
+              "asdl",
+              "ebnf",
+              "ftl",
+              "globalization",
+              "internationalization",
+              "intl",
+              "l10n",
+              "localization",
+              "specification",
+              "translate",
+              "translation"
+            ]
           },
           "first_seen": "2026-08-29T02:21:20.623Z"
         },
@@ -486,12 +735,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Public change requests/proposals & ideation",
+            "homepage": null,
             "id": 131072921,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-25T22:19:51Z",
+            "open_issues": 180,
             "owner": "npm",
             "repo": "rfcs",
-            "stars": 776
+            "stars": 776,
+            "topics": [
+              "collaborators",
+              "discussion",
+              "npm",
+              "npm-cli",
+              "open",
+              "package-manager",
+              "proposal",
+              "rfc",
+              "rfc-process",
+              "rfcs"
+            ]
           },
           "first_seen": "2026-08-29T02:21:20.623Z"
         },
@@ -502,12 +767,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Nix community RFCs",
+            "homepage": null,
             "id": 81662501,
             "language": "Markdown",
+            "license": "CC-BY-SA-4.0",
             "last_commit": "2026-06-04T19:39:06Z",
+            "open_issues": 27,
             "owner": "NixOS",
             "repo": "rfcs",
-            "stars": 654
+            "stars": 654,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:21:20.623Z"
         },
@@ -518,12 +788,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Django Enhancement Proposals",
+            "homepage": null,
             "id": 18764735,
             "language": null,
+            "license": null,
             "last_commit": "2026-08-07T07:31:51Z",
+            "open_issues": 17,
             "owner": "django",
             "repo": "deps",
-            "stars": 530
+            "stars": 530,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:21:20.623Z"
         },
@@ -534,12 +809,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Helm community content",
+            "homepage": "https://helm.sh",
             "id": 95872745,
             "language": null,
+            "license": null,
             "last_commit": "2026-08-06T17:58:53Z",
+            "open_issues": 106,
             "owner": "helm",
             "repo": "community",
-            "stars": 495
+            "stars": 495,
+            "topics": [
+              "cncf"
+            ]
           },
           "first_seen": "2026-08-29T02:21:20.623Z"
         },
@@ -550,12 +832,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "RFCs for changes to Yarn",
+            "homepage": null,
             "id": 68416532,
             "language": null,
+            "license": null,
             "last_commit": "2024-01-06T17:52:20Z",
+            "open_issues": 22,
             "owner": "yarnpkg",
             "repo": "rfcs",
-            "stars": 431
+            "stars": 431,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:21:20.623Z"
         },
@@ -566,12 +853,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SemVer compatible version specification that has {head}.{yearweek}.{build} system.",
+            "homepage": null,
             "id": 381648584,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2024-03-08T00:47:17Z",
+            "open_issues": 1,
             "owner": "line",
             "repo": "headver",
-            "stars": 299
+            "stars": 299,
+            "topics": [
+              "convention",
+              "semver",
+              "specification",
+              "version",
+              "versioning",
+              "versioning-semantics"
+            ]
           },
           "first_seen": "2026-08-29T02:21:20.623Z"
         },
@@ -582,12 +881,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "RFCs for changes to Svelte",
+            "homepage": null,
             "id": 155792808,
             "language": null,
+            "license": null,
             "last_commit": "2024-12-04T19:21:17Z",
+            "open_issues": 17,
             "owner": "sveltejs",
             "repo": "rfcs",
-            "stars": 282
+            "stars": 282,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:21:20.623Z"
         },
@@ -598,12 +902,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OpenAutoComplete -- CLI autocomplete specification",
+            "homepage": null,
             "id": 265221356,
             "language": null,
+            "license": "CC-BY-4.0",
             "last_commit": "2023-01-09T02:01:13Z",
+            "open_issues": 9,
             "owner": "openautocomplete",
             "repo": "openautocomplete",
-            "stars": 265
+            "stars": 265,
+            "topics": [
+              "autocomplete",
+              "shell",
+              "specification"
+            ]
           },
           "first_seen": "2026-08-29T02:21:20.623Z"
         },
@@ -614,12 +927,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Repo for managing Requests For Comments (RFCs) for the ESLint project",
+            "homepage": null,
             "id": 156903008,
             "language": null,
+            "license": null,
             "last_commit": "2026-08-28T19:03:45Z",
+            "open_issues": 11,
             "owner": "eslint",
             "repo": "rfcs",
-            "stars": 154
+            "stars": 154,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:21:20.623Z"
         },
@@ -630,12 +948,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Jenkins Enhancement Proposals",
+            "homepage": null,
             "id": 103302223,
             "language": "Shell",
+            "license": null,
             "last_commit": "2026-05-02T17:16:14Z",
+            "open_issues": 4,
             "owner": "jenkinsci",
             "repo": "jep",
-            "stars": 149
+            "stars": 149,
+            "topics": [
+              "enhancement",
+              "governance",
+              "jenkins"
+            ]
           },
           "first_seen": "2026-08-29T02:21:20.623Z"
         },
@@ -646,12 +973,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Index of all Bazel proposals and design documents",
+            "homepage": null,
             "id": 140339230,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2026-07-24T08:33:18Z",
+            "open_issues": 10,
             "owner": "bazelbuild",
             "repo": "proposals",
-            "stars": 136
+            "stars": 136,
+            "topics": [
+              "bazel",
+              "design-documents",
+              "proposals"
+            ]
           },
           "first_seen": "2026-08-29T02:21:20.623Z"
         },
@@ -662,12 +998,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Conda Enhancement Proposals",
+            "homepage": null,
             "id": 381387852,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-08-21T16:07:02Z",
+            "open_issues": 73,
             "owner": "conda",
             "repo": "ceps",
-            "stars": 34
+            "stars": 34,
+            "topics": [
+              "conda",
+              "package-management",
+              "proposals"
+            ]
           },
           "first_seen": "2026-08-29T02:21:20.623Z"
         }
@@ -684,12 +1029,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bitcoin Improvement Proposals",
+            "homepage": null,
             "id": 14531737,
             "language": "Wikitext",
+            "license": null,
             "last_commit": "2026-08-20T17:14:27Z",
+            "open_issues": 55,
             "owner": "bitcoin",
             "repo": "bips",
-            "stars": 10932
+            "stars": 10932,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:21:20.623Z"
         },
@@ -700,12 +1050,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "BOLT: Basis of Lightning Technology (Lightning Network Specifications)",
+            "homepage": null,
             "id": 73738971,
             "language": "Markdown",
+            "license": null,
             "last_commit": "2026-08-28T15:23:17Z",
+            "open_issues": 41,
             "owner": "lightning",
             "repo": "bolts",
-            "stars": 2248
+            "stars": 2248,
+            "topics": [
+              "bitcoin",
+              "blockchain",
+              "cryptocurrency",
+              "cryptography",
+              "lightning",
+              "lightning-network",
+              "protocol"
+            ]
           },
           "first_seen": "2026-08-29T02:21:20.623Z"
         },
@@ -716,12 +1079,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Technical specifications for the libp2p networking stack",
+            "homepage": "https://libp2p.io",
             "id": 68122771,
             "language": null,
+            "license": null,
             "last_commit": "2026-08-23T18:42:19Z",
+            "open_issues": 195,
             "owner": "libp2p",
             "repo": "specs",
-            "stars": 1776
+            "stars": 1776,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:21:20.623Z"
         },
@@ -732,12 +1100,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SatoshiLabs Improvement Proposals",
+            "homepage": null,
             "id": 50844973,
             "language": "Markdown",
+            "license": "CC-BY-SA-4.0",
             "last_commit": "2026-08-28T09:20:40Z",
+            "open_issues": 7,
             "owner": "satoshilabs",
             "repo": "slips",
-            "stars": 1689
+            "stars": 1689,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:21:20.623Z"
         },
@@ -748,12 +1121,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Chain Agnostic Improvement Proposals",
+            "homepage": "https://chainagnostic.org",
             "id": 205383452,
             "language": "HTML",
+            "license": "CC0-1.0",
             "last_commit": "2026-08-18T17:08:05Z",
+            "open_issues": 97,
             "owner": "ChainAgnostic",
             "repo": "CAIPs",
-            "stars": 644
+            "stars": 644,
+            "topics": [
+              "bip",
+              "bitcoin",
+              "blockchain",
+              "cosmos",
+              "eip",
+              "ethereum",
+              "improvement-proposal"
+            ]
           },
           "first_seen": "2026-08-29T02:21:20.623Z"
         },
@@ -764,12 +1150,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Helium Improvement Proposals",
+            "homepage": null,
             "id": 202416100,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-24T19:38:42Z",
+            "open_issues": 6,
             "owner": "helium",
             "repo": "HIP",
-            "stars": 588
+            "stars": 588,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:21:20.623Z"
         },
@@ -780,12 +1171,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Canonical specifications for Hiero Consensus Specifications (HCS) — originally written and maintained by Hashgraph Online",
+            "homepage": "https://hol.org/docs/standards",
             "id": 1117688616,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2026-07-11T11:48:29Z",
+            "open_issues": 12,
             "owner": "hiero-ledger",
             "repo": "hiero-consensus-specifications",
-            "stars": 562
+            "stars": 562,
+            "topics": [
+              "ai-standards",
+              "consensus",
+              "hacktoberfest",
+              "hashgraph",
+              "hcs",
+              "hedera",
+              "hol",
+              "trust-scores"
+            ]
           },
           "first_seen": "2026-08-29T02:21:20.623Z"
         },
@@ -796,12 +1201,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1543812,
             "language": "HTML",
+            "license": null,
             "last_commit": "2024-05-29T17:51:13Z",
+            "open_issues": 87,
             "owner": "bittorrent",
             "repo": "bittorrent.org",
-            "stars": 441
+            "stars": 441,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:21:20.623Z"
         },
@@ -812,12 +1222,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repository contains proposals, standards and documentations related to Nervos Network.",
+            "homepage": "https://nervos.org",
             "id": 122925447,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-12T10:39:09Z",
+            "open_issues": 27,
             "owner": "nervosnetwork",
             "repo": "rfcs",
-            "stars": 270
+            "stars": 270,
+            "topics": [
+              "discussion",
+              "nervos",
+              "proposal",
+              "rfc"
+            ]
           },
           "first_seen": "2026-08-29T02:21:20.623Z"
         },
@@ -828,12 +1248,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Near Enhancement Proposals repository",
+            "homepage": "https://near.github.io/NEPs/",
             "id": 190420860,
             "language": null,
+            "license": null,
             "last_commit": "2026-08-18T13:37:10Z",
+            "open_issues": 13,
             "owner": "near",
             "repo": "NEPs",
-            "stars": 238
+            "stars": 238,
+            "topics": [
+              "blockchain",
+              "documentation",
+              "hacktoberfest",
+              "nearprotocol"
+            ]
           },
           "first_seen": "2026-08-29T02:21:20.623Z"
         },
@@ -844,12 +1274,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Starknet Improvement Proposal repository",
+            "homepage": null,
             "id": 499412067,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-06-13T15:08:02Z",
+            "open_issues": 1,
             "owner": "starknet-io",
             "repo": "SNIPs",
-            "stars": 206
+            "stars": 206,
+            "topics": [
+              "process",
+              "standardization",
+              "starknet",
+              "starknet-foundation"
+            ]
           },
           "first_seen": "2026-08-29T02:21:20.623Z"
         },
@@ -860,12 +1300,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Polygon Improvement Proposals (PIP)",
+            "homepage": null,
             "id": 604090446,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2026-08-18T07:11:37Z",
+            "open_issues": 13,
             "owner": "0xPolygon",
             "repo": "Polygon-Improvement-Proposals",
-            "stars": 120
+            "stars": 120,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:21:20.623Z"
         },
@@ -876,12 +1321,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Aave Improvement Proposals",
+            "homepage": null,
             "id": 254112000,
             "language": "JavaScript",
+            "license": "AGPL-3.0",
             "last_commit": "2023-08-16T00:36:23Z",
+            "open_issues": 11,
             "owner": "aave",
             "repo": "aip",
-            "stars": 102
+            "stars": 102,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:21:20.623Z"
         },
@@ -892,12 +1342,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Maker Improvement Proposals (MIPs)",
+            "homepage": null,
             "id": 253096529,
             "language": null,
+            "license": "MIT",
             "last_commit": "2024-09-05T20:03:21Z",
+            "open_issues": 2,
             "owner": "sky-ecosystem",
             "repo": "mips",
-            "stars": 75
+            "stars": 75,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:21:20.623Z"
         },
@@ -908,12 +1363,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The BTFS Improvement Proposal repository",
+            "homepage": null,
             "id": 541937127,
             "language": null,
+            "license": null,
             "last_commit": "2025-09-24T06:13:33Z",
+            "open_issues": 24,
             "owner": "bittorrent",
             "repo": "BTIPs",
-            "stars": 26
+            "stars": 26,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:21:20.623Z"
         }
@@ -930,12 +1390,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Programming style, best practices, and coding conventions.",
+            "homepage": null,
             "id": 97054975,
             "language": "JavaScript",
+            "license": "CC0-1.0",
             "last_commit": "2026-05-28T02:14:37Z",
+            "open_issues": 0,
             "owner": "Kristories",
             "repo": "awesome-guidelines",
-            "stars": 11074
+            "stars": 11074,
+            "topics": [
+              "awesome",
+              "awesome-guidelines",
+              "awesome-list",
+              "code-quality",
+              "coding-conventions",
+              "guidelines",
+              "hacktoberfest",
+              "style-conventions",
+              "style-guide"
+            ]
           },
           "first_seen": "2026-08-29T02:21:20.623Z"
         },
@@ -946,12 +1421,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":books: A collection of useful resources for building RESTful HTTP+JSON APIs.",
+            "homepage": "https://github.com/sponsors/yosriady",
             "id": 37931557,
             "language": null,
+            "license": null,
             "last_commit": "2025-12-20T03:13:46Z",
+            "open_issues": 44,
             "owner": "yosriady",
             "repo": "awesome-api-devtools",
-            "stars": 4016
+            "stars": 4016,
+            "topics": [
+              "api",
+              "api-client",
+              "api-documentation",
+              "api-gateways",
+              "api-management",
+              "json-schema",
+              "swagger"
+            ]
           },
           "first_seen": "2026-08-29T02:21:20.623Z"
         },
@@ -962,12 +1450,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "😎 A curated list of international standards, frameworks, and certifications that define how organizations operate, scale, and stay compliant.",
+            "homepage": "https://console.openapi.com",
             "id": 1229604825,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-06-29T17:52:19Z",
+            "open_issues": 0,
             "owner": "openapi",
             "repo": "awesome-corporate-standards",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "audit",
+              "awesome",
+              "awesome-list",
+              "best-practices",
+              "certifications",
+              "certified-api",
+              "compliance",
+              "corporate-standards",
+              "cybersecurity",
+              "data-protection",
+              "gdpr",
+              "governance",
+              "grc",
+              "iso27001",
+              "openapi",
+              "regulations",
+              "risk-management",
+              "standards",
+              "sustainability"
+            ]
           },
           "first_seen": "2026-08-29T02:21:20.623Z"
         }
@@ -976,15 +1489,39 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T02:21:20.623Z",
+    "last_updated": "2026-08-29T04:52:46.520Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of technical standards, they may be called requests for comments, proposals, drafts, notes, specifications, or something else",
+      "homepage": "https://donbarbos.github.io/awesome-standards/",
       "id": 902462871,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-07-18T18:35:01Z",
+      "open_issues": 4,
       "owner": "donbarbos",
       "repo": "awesome-standards",
-      "stars": 235
+      "stars": 235,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "awesome-lists",
+        "draft",
+        "drafts",
+        "guidelines",
+        "list",
+        "notes",
+        "proposal",
+        "proposals",
+        "recommendations",
+        "rfc",
+        "rfcs",
+        "specifications",
+        "standard",
+        "standards",
+        "web",
+        "web-standards"
+      ]
     },
     "original_repository_sha": "67f5107d84bdaf3d4d1ee6a681f1097fb10a12b8",
     "enhanced_repository": "enhansome/enhansome-standards",
