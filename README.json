@@ -15,11 +15,11 @@
             "id": 27729880,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-04T21:10:36Z",
+            "last_commit": "2026-09-05T03:23:32Z",
             "open_issues": 1352,
             "owner": "grpc",
             "repo": "grpc",
-            "stars": 45294,
+            "stars": 45297,
             "topics": []
           },
           "first_seen": "2026-08-29T02:21:20.623Z"
@@ -40,7 +40,7 @@
             "open_issues": 176,
             "owner": "microsoft",
             "repo": "api-guidelines",
-            "stars": 23331,
+            "stars": 23332,
             "topics": [
               "api",
               "guidelines",
@@ -88,11 +88,11 @@
             "id": 310611,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-03T20:36:59Z",
-            "open_issues": 24,
+            "last_commit": "2026-09-05T21:09:21Z",
+            "open_issues": 25,
             "owner": "apache",
             "repo": "thrift",
-            "stars": 10957,
+            "stars": 10958,
             "topics": [
               "actionscript",
               "c",
@@ -307,7 +307,7 @@
             "open_issues": 7,
             "owner": "tc39",
             "repo": "proposals",
-            "stars": 19187,
+            "stars": 19186,
             "topics": [
               "committee",
               "ecmascript",
@@ -361,7 +361,7 @@
             "open_issues": 12,
             "owner": "Kotlin",
             "repo": "KEEP",
-            "stars": 3764,
+            "stars": 3763,
             "topics": [
               "evolution",
               "kotlin",
@@ -404,7 +404,7 @@
             "language": "TeX",
             "license": "NOASSERTION",
             "last_commit": "2026-09-04T18:19:03Z",
-            "open_issues": 1328,
+            "open_issues": 1329,
             "owner": "dart-lang",
             "repo": "language",
             "stars": 2932,
@@ -450,7 +450,7 @@
             "language": "F#",
             "license": null,
             "last_commit": "2026-09-01T09:31:27Z",
-            "open_issues": 31,
+            "open_issues": 32,
             "owner": "fsharp",
             "repo": "fslang-design",
             "stars": 556,
@@ -658,7 +658,7 @@
             "open_issues": 19,
             "owner": "compose-spec",
             "repo": "compose-spec",
-            "stars": 2724,
+            "stars": 2725,
             "topics": [
               "compose",
               "containers",
@@ -1038,7 +1038,7 @@
             "open_issues": 57,
             "owner": "bitcoin",
             "repo": "bips",
-            "stars": 10933,
+            "stars": 10932,
             "topics": []
           },
           "first_seen": "2026-08-29T02:21:20.623Z"
@@ -1084,11 +1084,11 @@
             "id": 68122771,
             "language": null,
             "license": null,
-            "last_commit": "2026-09-01T03:40:35Z",
-            "open_issues": 197,
+            "last_commit": "2026-09-05T04:09:38Z",
+            "open_issues": 196,
             "owner": "libp2p",
             "repo": "specs",
-            "stars": 1777,
+            "stars": 1778,
             "topics": []
           },
           "first_seen": "2026-08-29T02:21:20.623Z"
@@ -1130,7 +1130,7 @@
             "open_issues": 97,
             "owner": "ChainAgnostic",
             "repo": "CAIPs",
-            "stars": 643,
+            "stars": 644,
             "topics": [
               "bip",
               "bitcoin",
@@ -1489,7 +1489,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T21:37:37.968Z",
+    "last_updated": "2026-09-05T21:27:01.654Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of technical standards, they may be called requests for comments, proposals, drafts, notes, specifications, or something else",
