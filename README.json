@@ -19,7 +19,7 @@
             "open_issues": 1352,
             "owner": "grpc",
             "repo": "grpc",
-            "stars": 45297,
+            "stars": 45299,
             "topics": []
           },
           "first_seen": "2026-08-29T02:21:20.623Z"
@@ -88,11 +88,11 @@
             "id": 310611,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-05T21:09:21Z",
-            "open_issues": 25,
+            "last_commit": "2026-09-06T17:51:23Z",
+            "open_issues": 23,
             "owner": "apache",
             "repo": "thrift",
-            "stars": 10958,
+            "stars": 10956,
             "topics": [
               "actionscript",
               "c",
@@ -125,7 +125,7 @@
             "open_issues": 15,
             "owner": "cloudevents",
             "repo": "spec",
-            "stars": 5885,
+            "stars": 5886,
             "topics": [
               "serverless",
               "specification"
@@ -282,7 +282,7 @@
             "open_issues": 2825,
             "owner": "ziglang",
             "repo": "zig",
-            "stars": 43318,
+            "stars": 43321,
             "topics": [
               "compiler",
               "language",
@@ -307,7 +307,7 @@
             "open_issues": 7,
             "owner": "tc39",
             "repo": "proposals",
-            "stars": 19186,
+            "stars": 19187,
             "topics": [
               "committee",
               "ecmascript",
@@ -407,7 +407,7 @@
             "open_issues": 1329,
             "owner": "dart-lang",
             "repo": "language",
-            "stars": 2932,
+            "stars": 2933,
             "topics": [
               "dart-language",
               "language-changes",
@@ -450,7 +450,7 @@
             "language": "F#",
             "license": null,
             "last_commit": "2026-09-01T09:31:27Z",
-            "open_issues": 32,
+            "open_issues": 38,
             "owner": "fsharp",
             "repo": "fslang-design",
             "stars": 556,
@@ -711,7 +711,7 @@
             "open_issues": 78,
             "owner": "projectfluent",
             "repo": "fluent",
-            "stars": 1675,
+            "stars": 1674,
             "topics": [
               "asdl",
               "ebnf",
@@ -1399,7 +1399,7 @@
             "open_issues": 0,
             "owner": "Kristories",
             "repo": "awesome-guidelines",
-            "stars": 11085,
+            "stars": 11087,
             "topics": [
               "awesome",
               "awesome-guidelines",
@@ -1489,7 +1489,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T21:27:01.654Z",
+    "last_updated": "2026-09-06T21:30:40.010Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of technical standards, they may be called requests for comments, proposals, drafts, notes, specifications, or something else",
@@ -1501,7 +1501,7 @@
       "open_issues": 4,
       "owner": "donbarbos",
       "repo": "awesome-standards",
-      "stars": 235,
+      "stars": 234,
       "topics": [
         "awesome",
         "awesome-list",
