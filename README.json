@@ -15,11 +15,11 @@
             "id": 27729880,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-15T20:47:58Z",
-            "open_issues": 1340,
+            "last_commit": "2026-09-16T22:12:03Z",
+            "open_issues": 1344,
             "owner": "grpc",
             "repo": "grpc",
-            "stars": 45311,
+            "stars": 45315,
             "topics": []
           },
           "first_seen": "2026-08-29T02:21:20.623Z"
@@ -40,7 +40,7 @@
             "open_issues": 179,
             "owner": "microsoft",
             "repo": "api-guidelines",
-            "stars": 23332,
+            "stars": 23334,
             "topics": [
               "api",
               "guidelines",
@@ -88,8 +88,8 @@
             "id": 310611,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-15T21:26:12Z",
-            "open_issues": 16,
+            "last_commit": "2026-09-16T22:12:20Z",
+            "open_issues": 27,
             "owner": "apache",
             "repo": "thrift",
             "stars": 10959,
@@ -125,7 +125,7 @@
             "open_issues": 15,
             "owner": "cloudevents",
             "repo": "spec",
-            "stars": 5894,
+            "stars": 5899,
             "topics": [
               "serverless",
               "specification"
@@ -175,7 +175,7 @@
             "open_issues": 9,
             "owner": "omniti-labs",
             "repo": "jsend",
-            "stars": 1723,
+            "stars": 1724,
             "topics": [
               "json"
             ]
@@ -282,7 +282,7 @@
             "open_issues": 2823,
             "owner": "ziglang",
             "repo": "zig",
-            "stars": 43306,
+            "stars": 43304,
             "topics": [
               "compiler",
               "language",
@@ -307,7 +307,7 @@
             "open_issues": 8,
             "owner": "tc39",
             "repo": "proposals",
-            "stars": 19185,
+            "stars": 19184,
             "topics": [
               "committee",
               "ecmascript",
@@ -404,10 +404,10 @@
             "language": "TeX",
             "license": "NOASSERTION",
             "last_commit": "2026-09-15T21:09:57Z",
-            "open_issues": 1282,
+            "open_issues": 1285,
             "owner": "dart-lang",
             "repo": "language",
-            "stars": 2935,
+            "stars": 2936,
             "topics": [
               "dart-language",
               "language-changes",
@@ -449,8 +449,8 @@
             "id": 21203458,
             "language": "F#",
             "license": null,
-            "last_commit": "2026-09-14T14:04:00Z",
-            "open_issues": 39,
+            "last_commit": "2026-09-16T19:48:04Z",
+            "open_issues": 40,
             "owner": "fsharp",
             "repo": "fslang-design",
             "stars": 558,
@@ -632,10 +632,10 @@
             "language": "Makefile",
             "license": "Apache-2.0",
             "last_commit": "2026-09-15T11:38:52Z",
-            "open_issues": 362,
+            "open_issues": 364,
             "owner": "open-telemetry",
             "repo": "opentelemetry-specification",
-            "stars": 4339,
+            "stars": 4340,
             "topics": [
               "opentelemetry"
             ]
@@ -658,7 +658,7 @@
             "open_issues": 19,
             "owner": "compose-spec",
             "repo": "compose-spec",
-            "stars": 2729,
+            "stars": 2730,
             "topics": [
               "compose",
               "containers",
@@ -741,7 +741,7 @@
             "language": "JavaScript",
             "license": "NOASSERTION",
             "last_commit": "2026-09-15T05:13:33Z",
-            "open_issues": 179,
+            "open_issues": 180,
             "owner": "npm",
             "repo": "rfcs",
             "stars": 778,
@@ -776,7 +776,7 @@
             "open_issues": 27,
             "owner": "NixOS",
             "repo": "rfcs",
-            "stars": 653,
+            "stars": 654,
             "topics": []
           },
           "first_seen": "2026-08-29T02:21:20.623Z"
@@ -933,7 +933,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-09-15T21:22:20Z",
-            "open_issues": 11,
+            "open_issues": 12,
             "owner": "eslint",
             "repo": "rfcs",
             "stars": 159,
@@ -1034,11 +1034,11 @@
             "id": 14531737,
             "language": "Wikitext",
             "license": null,
-            "last_commit": "2026-09-14T23:26:29Z",
-            "open_issues": 59,
+            "last_commit": "2026-09-16T21:11:02Z",
+            "open_issues": 58,
             "owner": "bitcoin",
             "repo": "bips",
-            "stars": 10939,
+            "stars": 10941,
             "topics": []
           },
           "first_seen": "2026-08-29T02:21:20.623Z"
@@ -1109,7 +1109,7 @@
             "open_issues": 13,
             "owner": "satoshilabs",
             "repo": "slips",
-            "stars": 1692,
+            "stars": 1693,
             "topics": []
           },
           "first_seen": "2026-08-29T02:21:20.623Z"
@@ -1399,7 +1399,7 @@
             "open_issues": 0,
             "owner": "Kristories",
             "repo": "awesome-guidelines",
-            "stars": 11103,
+            "stars": 11107,
             "topics": [
               "awesome",
               "awesome-guidelines",
@@ -1427,7 +1427,7 @@
             "language": null,
             "license": null,
             "last_commit": "2025-12-20T03:13:46Z",
-            "open_issues": 50,
+            "open_issues": 51,
             "owner": "yosriady",
             "repo": "awesome-api-devtools",
             "stars": 4018,
@@ -1489,7 +1489,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T22:23:15.118Z",
+    "last_updated": "2026-09-16T22:14:56.730Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of technical standards, they may be called requests for comments, proposals, drafts, notes, specifications, or something else",
@@ -1501,7 +1501,7 @@
       "open_issues": 4,
       "owner": "donbarbos",
       "repo": "awesome-standards",
-      "stars": 234,
+      "stars": 236,
       "topics": [
         "awesome",
         "awesome-list",
