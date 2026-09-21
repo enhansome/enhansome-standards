@@ -15,11 +15,11 @@
             "id": 27729880,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-18T20:47:53Z",
-            "open_issues": 1349,
+            "last_commit": "2026-09-21T21:57:49Z",
+            "open_issues": 1344,
             "owner": "grpc",
             "repo": "grpc",
-            "stars": 45328,
+            "stars": 45331,
             "topics": []
           },
           "first_seen": "2026-08-29T02:21:20.623Z"
@@ -40,7 +40,7 @@
             "open_issues": 179,
             "owner": "microsoft",
             "repo": "api-guidelines",
-            "stars": 23334,
+            "stars": 23333,
             "topics": [
               "api",
               "guidelines",
@@ -66,7 +66,7 @@
             "open_issues": 2,
             "owner": "shieldfy",
             "repo": "API-Security-Checklist",
-            "stars": 23321,
+            "stars": 23322,
             "topics": [
               "api",
               "jwt",
@@ -88,8 +88,8 @@
             "id": 310611,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-20T21:28:53Z",
-            "open_issues": 14,
+            "last_commit": "2026-09-21T21:18:40Z",
+            "open_issues": 15,
             "owner": "apache",
             "repo": "thrift",
             "stars": 10959,
@@ -122,10 +122,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-09-03T16:12:26Z",
-            "open_issues": 15,
+            "open_issues": 16,
             "owner": "cloudevents",
             "repo": "spec",
-            "stars": 5908,
+            "stars": 5909,
             "topics": [
               "serverless",
               "specification"
@@ -175,7 +175,7 @@
             "open_issues": 9,
             "owner": "omniti-labs",
             "repo": "jsend",
-            "stars": 1727,
+            "stars": 1728,
             "topics": [
               "json"
             ]
@@ -279,10 +279,10 @@
             "language": "Zig",
             "license": "MIT",
             "last_commit": "2025-11-27T01:42:59Z",
-            "open_issues": 2793,
+            "open_issues": 2792,
             "owner": "ziglang",
             "repo": "zig",
-            "stars": 43301,
+            "stars": 43304,
             "topics": [
               "compiler",
               "language",
@@ -337,7 +337,7 @@
             "open_issues": 289,
             "owner": "dotnet",
             "repo": "csharplang",
-            "stars": 12707,
+            "stars": 12708,
             "topics": [
               "csharp",
               "language-design"
@@ -357,8 +357,8 @@
             "id": 54388526,
             "language": "Markdown",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-18T09:49:32Z",
-            "open_issues": 13,
+            "last_commit": "2026-09-21T12:10:40Z",
+            "open_issues": 12,
             "owner": "Kotlin",
             "repo": "KEEP",
             "stars": 3770,
@@ -449,8 +449,8 @@
             "id": 21203458,
             "language": "F#",
             "license": null,
-            "last_commit": "2026-09-17T10:55:57Z",
-            "open_issues": 39,
+            "last_commit": "2026-09-21T09:34:10Z",
+            "open_issues": 38,
             "owner": "fsharp",
             "repo": "fslang-design",
             "stars": 559,
@@ -593,7 +593,7 @@
             "open_issues": 52,
             "owner": "reactjs",
             "repo": "rfcs",
-            "stars": 5810,
+            "stars": 5811,
             "topics": []
           },
           "first_seen": "2026-08-29T02:21:20.623Z"
@@ -631,11 +631,11 @@
             "id": 184463891,
             "language": "Makefile",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-18T19:22:31Z",
-            "open_issues": 354,
+            "last_commit": "2026-09-21T15:49:10Z",
+            "open_issues": 286,
             "owner": "open-telemetry",
             "repo": "opentelemetry-specification",
-            "stars": 4343,
+            "stars": 4344,
             "topics": [
               "opentelemetry"
             ]
@@ -658,7 +658,7 @@
             "open_issues": 18,
             "owner": "compose-spec",
             "repo": "compose-spec",
-            "stars": 2730,
+            "stars": 2729,
             "topics": [
               "compose",
               "containers",
@@ -685,7 +685,7 @@
             "open_issues": 265,
             "owner": "react-native-community",
             "repo": "discussions-and-proposals",
-            "stars": 1823,
+            "stars": 1824,
             "topics": [
               "discussion-board",
               "proposals",
@@ -797,7 +797,7 @@
             "open_issues": 16,
             "owner": "django",
             "repo": "deps",
-            "stars": 531,
+            "stars": 530,
             "topics": []
           },
           "first_seen": "2026-08-29T02:21:20.623Z"
@@ -932,8 +932,8 @@
             "id": 156903008,
             "language": null,
             "license": null,
-            "last_commit": "2026-09-15T21:22:20Z",
-            "open_issues": 12,
+            "last_commit": "2026-09-21T16:24:43Z",
+            "open_issues": 11,
             "owner": "eslint",
             "repo": "rfcs",
             "stars": 159,
@@ -1034,11 +1034,11 @@
             "id": 14531737,
             "language": "Wikitext",
             "license": null,
-            "last_commit": "2026-09-18T19:02:06Z",
-            "open_issues": 61,
+            "last_commit": "2026-09-21T20:18:48Z",
+            "open_issues": 59,
             "owner": "bitcoin",
             "repo": "bips",
-            "stars": 10947,
+            "stars": 10949,
             "topics": []
           },
           "first_seen": "2026-08-29T02:21:20.623Z"
@@ -1055,11 +1055,11 @@
             "id": 73738971,
             "language": "Markdown",
             "license": null,
-            "last_commit": "2026-09-10T23:30:51Z",
-            "open_issues": 46,
+            "last_commit": "2026-09-21T17:24:56Z",
+            "open_issues": 45,
             "owner": "lightning",
             "repo": "bolts",
-            "stars": 2249,
+            "stars": 2250,
             "topics": [
               "bitcoin",
               "blockchain",
@@ -1088,7 +1088,7 @@
             "open_issues": 194,
             "owner": "libp2p",
             "repo": "specs",
-            "stars": 1778,
+            "stars": 1777,
             "topics": []
           },
           "first_seen": "2026-08-29T02:21:20.623Z"
@@ -1176,7 +1176,7 @@
             "id": 1117688616,
             "language": null,
             "license": "Apache-2.0",
-            "last_commit": "2026-09-14T22:29:54Z",
+            "last_commit": "2026-09-21T21:27:55Z",
             "open_issues": 12,
             "owner": "hiero-ledger",
             "repo": "hiero-consensus-specifications",
@@ -1399,7 +1399,7 @@
             "open_issues": 0,
             "owner": "Kristories",
             "repo": "awesome-guidelines",
-            "stars": 11114,
+            "stars": 11115,
             "topics": [
               "awesome",
               "awesome-guidelines",
@@ -1427,10 +1427,10 @@
             "language": null,
             "license": null,
             "last_commit": "2025-12-20T03:13:46Z",
-            "open_issues": 52,
+            "open_issues": 53,
             "owner": "yosriady",
             "repo": "awesome-api-devtools",
-            "stars": 4017,
+            "stars": 4016,
             "topics": [
               "api",
               "api-client",
@@ -1489,7 +1489,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T21:44:00.125Z",
+    "last_updated": "2026-09-21T22:41:28.958Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of technical standards, they may be called requests for comments, proposals, drafts, notes, specifications, or something else",
