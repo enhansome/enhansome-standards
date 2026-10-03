@@ -16,10 +16,10 @@
             "language": "C++",
             "license": "Apache-2.0",
             "last_commit": "2026-10-03T03:42:26Z",
-            "open_issues": 1352,
+            "open_issues": 1355,
             "owner": "grpc",
             "repo": "grpc",
-            "stars": 45359,
+            "stars": 45361,
             "topics": []
           },
           "first_seen": "2026-08-29T02:21:20.623Z"
@@ -37,7 +37,7 @@
             "language": null,
             "license": "NOASSERTION",
             "last_commit": "2026-08-05T00:07:38Z",
-            "open_issues": 181,
+            "open_issues": 182,
             "owner": "microsoft",
             "repo": "api-guidelines",
             "stars": 23334,
@@ -66,7 +66,7 @@
             "open_issues": 2,
             "owner": "shieldfy",
             "repo": "API-Security-Checklist",
-            "stars": 23330,
+            "stars": 23331,
             "topics": [
               "api",
               "jwt",
@@ -282,7 +282,7 @@
             "open_issues": 2780,
             "owner": "ziglang",
             "repo": "zig",
-            "stars": 43311,
+            "stars": 43310,
             "topics": [
               "compiler",
               "language",
@@ -333,8 +333,8 @@
             "id": 75990888,
             "language": "C#",
             "license": null,
-            "last_commit": "2026-10-03T00:16:39Z",
-            "open_issues": 290,
+            "last_commit": "2026-10-03T19:05:47Z",
+            "open_issues": 292,
             "owner": "dotnet",
             "repo": "csharplang",
             "stars": 12719,
@@ -563,7 +563,7 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2023-11-07T21:48:52Z",
-            "open_issues": 16,
+            "open_issues": 18,
             "owner": "vlang",
             "repo": "rfcs",
             "stars": 47,
@@ -635,7 +635,7 @@
             "open_issues": 279,
             "owner": "open-telemetry",
             "repo": "opentelemetry-specification",
-            "stars": 4347,
+            "stars": 4346,
             "topics": [
               "opentelemetry"
             ]
@@ -658,7 +658,7 @@
             "open_issues": 18,
             "owner": "compose-spec",
             "repo": "compose-spec",
-            "stars": 2732,
+            "stars": 2733,
             "topics": [
               "compose",
               "containers",
@@ -711,7 +711,7 @@
             "open_issues": 79,
             "owner": "projectfluent",
             "repo": "fluent",
-            "stars": 1680,
+            "stars": 1681,
             "topics": [
               "asdl",
               "ebnf",
@@ -1035,10 +1035,10 @@
             "language": "Wikitext",
             "license": null,
             "last_commit": "2026-10-02T13:27:57Z",
-            "open_issues": 64,
+            "open_issues": 65,
             "owner": "bitcoin",
             "repo": "bips",
-            "stars": 10950,
+            "stars": 10951,
             "topics": []
           },
           "first_seen": "2026-08-29T02:21:20.623Z"
@@ -1088,7 +1088,7 @@
             "open_issues": 194,
             "owner": "libp2p",
             "repo": "specs",
-            "stars": 1779,
+            "stars": 1778,
             "topics": []
           },
           "first_seen": "2026-08-29T02:21:20.623Z"
@@ -1106,7 +1106,7 @@
             "language": "Markdown",
             "license": "CC-BY-SA-4.0",
             "last_commit": "2026-10-02T13:06:49Z",
-            "open_issues": 20,
+            "open_issues": 21,
             "owner": "satoshilabs",
             "repo": "slips",
             "stars": 1696,
@@ -1210,7 +1210,7 @@
             "open_issues": 87,
             "owner": "bittorrent",
             "repo": "bittorrent.org",
-            "stars": 441,
+            "stars": 442,
             "topics": []
           },
           "first_seen": "2026-08-29T02:21:20.623Z"
@@ -1399,7 +1399,7 @@
             "open_issues": 0,
             "owner": "Kristories",
             "repo": "awesome-guidelines",
-            "stars": 11148,
+            "stars": 11150,
             "topics": [
               "awesome",
               "awesome-guidelines",
@@ -1489,7 +1489,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:08:03.917Z",
+    "last_updated": "2026-10-03T22:16:21.035Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of technical standards, they may be called requests for comments, proposals, drafts, notes, specifications, or something else",
