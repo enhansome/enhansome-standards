@@ -19,7 +19,7 @@
             "open_issues": 1355,
             "owner": "grpc",
             "repo": "grpc",
-            "stars": 45361,
+            "stars": 45362,
             "topics": []
           },
           "first_seen": "2026-08-29T02:21:20.623Z"
@@ -40,7 +40,7 @@
             "open_issues": 182,
             "owner": "microsoft",
             "repo": "api-guidelines",
-            "stars": 23334,
+            "stars": 23335,
             "topics": [
               "api",
               "guidelines",
@@ -66,7 +66,7 @@
             "open_issues": 2,
             "owner": "shieldfy",
             "repo": "API-Security-Checklist",
-            "stars": 23331,
+            "stars": 23330,
             "topics": [
               "api",
               "jwt",
@@ -92,7 +92,7 @@
             "open_issues": 31,
             "owner": "apache",
             "repo": "thrift",
-            "stars": 10963,
+            "stars": 10964,
             "topics": [
               "actionscript",
               "c",
@@ -279,7 +279,7 @@
             "language": "Zig",
             "license": "MIT",
             "last_commit": "2025-11-27T01:42:59Z",
-            "open_issues": 2780,
+            "open_issues": 2775,
             "owner": "ziglang",
             "repo": "zig",
             "stars": 43310,
@@ -337,7 +337,7 @@
             "open_issues": 292,
             "owner": "dotnet",
             "repo": "csharplang",
-            "stars": 12719,
+            "stars": 12718,
             "topics": [
               "csharp",
               "language-design"
@@ -404,10 +404,10 @@
             "language": "TeX",
             "license": "NOASSERTION",
             "last_commit": "2026-10-03T01:03:19Z",
-            "open_issues": 1293,
+            "open_issues": 1294,
             "owner": "dart-lang",
             "repo": "language",
-            "stars": 2931,
+            "stars": 2932,
             "topics": [
               "dart-language",
               "language-changes",
@@ -1038,7 +1038,7 @@
             "open_issues": 65,
             "owner": "bitcoin",
             "repo": "bips",
-            "stars": 10951,
+            "stars": 10953,
             "topics": []
           },
           "first_seen": "2026-08-29T02:21:20.623Z"
@@ -1106,7 +1106,7 @@
             "language": "Markdown",
             "license": "CC-BY-SA-4.0",
             "last_commit": "2026-10-02T13:06:49Z",
-            "open_issues": 21,
+            "open_issues": 23,
             "owner": "satoshilabs",
             "repo": "slips",
             "stars": 1696,
@@ -1130,7 +1130,7 @@
             "open_issues": 97,
             "owner": "ChainAgnostic",
             "repo": "CAIPs",
-            "stars": 644,
+            "stars": 645,
             "topics": [
               "bip",
               "bitcoin",
@@ -1399,7 +1399,7 @@
             "open_issues": 0,
             "owner": "Kristories",
             "repo": "awesome-guidelines",
-            "stars": 11150,
+            "stars": 11152,
             "topics": [
               "awesome",
               "awesome-guidelines",
@@ -1427,7 +1427,7 @@
             "language": null,
             "license": null,
             "last_commit": "2025-12-20T03:13:46Z",
-            "open_issues": 57,
+            "open_issues": 58,
             "owner": "yosriady",
             "repo": "awesome-api-devtools",
             "stars": 4018,
@@ -1489,7 +1489,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T22:16:21.035Z",
+    "last_updated": "2026-10-04T22:24:47.380Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of technical standards, they may be called requests for comments, proposals, drafts, notes, specifications, or something else",
