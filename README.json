@@ -15,11 +15,11 @@
             "id": 27729880,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-09T15:52:09Z",
+            "last_commit": "2026-10-10T16:09:30Z",
             "open_issues": 1364,
             "owner": "grpc",
             "repo": "grpc",
-            "stars": 45367,
+            "stars": 45366,
             "topics": []
           },
           "first_seen": "2026-08-29T02:21:20.623Z"
@@ -92,7 +92,7 @@
             "open_issues": 31,
             "owner": "apache",
             "repo": "thrift",
-            "stars": 10963,
+            "stars": 10962,
             "topics": [
               "actionscript",
               "c",
@@ -125,7 +125,7 @@
             "open_issues": 20,
             "owner": "cloudevents",
             "repo": "spec",
-            "stars": 5921,
+            "stars": 5924,
             "topics": [
               "serverless",
               "specification"
@@ -279,10 +279,10 @@
             "language": "Zig",
             "license": "MIT",
             "last_commit": "2025-11-27T01:42:59Z",
-            "open_issues": 2771,
+            "open_issues": 2768,
             "owner": "ziglang",
             "repo": "zig",
-            "stars": 43303,
+            "stars": 43304,
             "topics": [
               "compiler",
               "language",
@@ -307,7 +307,7 @@
             "open_issues": 7,
             "owner": "tc39",
             "repo": "proposals",
-            "stars": 19193,
+            "stars": 19192,
             "topics": [
               "committee",
               "ecmascript",
@@ -334,10 +334,10 @@
             "language": "C#",
             "license": null,
             "last_commit": "2026-10-09T17:51:34Z",
-            "open_issues": 293,
+            "open_issues": 294,
             "owner": "dotnet",
             "repo": "csharplang",
-            "stars": 12718,
+            "stars": 12719,
             "topics": [
               "csharp",
               "language-design"
@@ -429,10 +429,10 @@
             "language": "Python",
             "license": null,
             "last_commit": "2026-09-11T15:34:40Z",
-            "open_issues": 195,
+            "open_issues": 196,
             "owner": "ghc-proposals",
             "repo": "ghc-proposals",
-            "stars": 707,
+            "stars": 708,
             "topics": []
           },
           "first_seen": "2026-08-29T02:21:20.623Z"
@@ -450,7 +450,7 @@
             "language": "F#",
             "license": null,
             "last_commit": "2026-10-09T09:37:16Z",
-            "open_issues": 37,
+            "open_issues": 38,
             "owner": "fsharp",
             "repo": "fslang-design",
             "stars": 559,
@@ -776,7 +776,7 @@
             "open_issues": 26,
             "owner": "NixOS",
             "repo": "rfcs",
-            "stars": 656,
+            "stars": 657,
             "topics": []
           },
           "first_seen": "2026-08-29T02:21:20.623Z"
@@ -933,7 +933,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-10-08T20:45:51Z",
-            "open_issues": 10,
+            "open_issues": 11,
             "owner": "eslint",
             "repo": "rfcs",
             "stars": 159,
@@ -1038,7 +1038,7 @@
             "open_issues": 68,
             "owner": "bitcoin",
             "repo": "bips",
-            "stars": 10956,
+            "stars": 10958,
             "topics": []
           },
           "first_seen": "2026-08-29T02:21:20.623Z"
@@ -1059,7 +1059,7 @@
             "open_issues": 46,
             "owner": "lightning",
             "repo": "bolts",
-            "stars": 2249,
+            "stars": 2250,
             "topics": [
               "bitcoin",
               "blockchain",
@@ -1109,7 +1109,7 @@
             "open_issues": 24,
             "owner": "satoshilabs",
             "repo": "slips",
-            "stars": 1695,
+            "stars": 1696,
             "topics": []
           },
           "first_seen": "2026-08-29T02:21:20.623Z"
@@ -1210,7 +1210,7 @@
             "open_issues": 87,
             "owner": "bittorrent",
             "repo": "bittorrent.org",
-            "stars": 442,
+            "stars": 443,
             "topics": []
           },
           "first_seen": "2026-08-29T02:21:20.623Z"
@@ -1399,7 +1399,7 @@
             "open_issues": 0,
             "owner": "Kristories",
             "repo": "awesome-guidelines",
-            "stars": 11166,
+            "stars": 11169,
             "topics": [
               "awesome",
               "awesome-guidelines",
@@ -1489,7 +1489,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T23:23:23.283Z",
+    "last_updated": "2026-10-10T22:46:40.161Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of technical standards, they may be called requests for comments, proposals, drafts, notes, specifications, or something else",
