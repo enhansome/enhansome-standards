@@ -15,38 +15,12 @@
             "id": 27729880,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-12T15:51:45Z",
-            "open_issues": 1362,
+            "last_commit": "2026-10-13T22:46:50Z",
+            "open_issues": 1354,
             "owner": "grpc",
             "repo": "grpc",
-            "stars": 45371,
+            "stars": 45372,
             "topics": []
-          },
-          "first_seen": "2026-08-29T02:21:20.623Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Microsoft REST API Guidelines",
-          "description": "Repository contains a collection of documents and related materials.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Microsoft REST API Guidelines",
-            "homepage": null,
-            "id": 63188650,
-            "language": null,
-            "license": "NOASSERTION",
-            "last_commit": "2026-08-05T00:07:38Z",
-            "open_issues": 181,
-            "owner": "microsoft",
-            "repo": "api-guidelines",
-            "stars": 23332,
-            "topics": [
-              "api",
-              "guidelines",
-              "rest-api",
-              "styleguide"
-            ]
           },
           "first_seen": "2026-08-29T02:21:20.623Z"
         },
@@ -66,12 +40,38 @@
             "open_issues": 2,
             "owner": "shieldfy",
             "repo": "API-Security-Checklist",
-            "stars": 23331,
+            "stars": 23335,
             "topics": [
               "api",
               "jwt",
               "oauth2",
               "security"
+            ]
+          },
+          "first_seen": "2026-08-29T02:21:20.623Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Microsoft REST API Guidelines",
+          "description": "Repository contains a collection of documents and related materials.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Microsoft REST API Guidelines",
+            "homepage": null,
+            "id": 63188650,
+            "language": null,
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-05T00:07:38Z",
+            "open_issues": 181,
+            "owner": "microsoft",
+            "repo": "api-guidelines",
+            "stars": 23333,
+            "topics": [
+              "api",
+              "guidelines",
+              "rest-api",
+              "styleguide"
             ]
           },
           "first_seen": "2026-08-29T02:21:20.623Z"
@@ -92,7 +92,7 @@
             "open_issues": 33,
             "owner": "apache",
             "repo": "thrift",
-            "stars": 10960,
+            "stars": 10959,
             "topics": [
               "actionscript",
               "c",
@@ -125,7 +125,7 @@
             "open_issues": 20,
             "owner": "cloudevents",
             "repo": "spec",
-            "stars": 5926,
+            "stars": 5928,
             "topics": [
               "serverless",
               "specification"
@@ -282,7 +282,7 @@
             "open_issues": 2764,
             "owner": "ziglang",
             "repo": "zig",
-            "stars": 43298,
+            "stars": 43289,
             "topics": [
               "compiler",
               "language",
@@ -307,7 +307,7 @@
             "open_issues": 7,
             "owner": "tc39",
             "repo": "proposals",
-            "stars": 19193,
+            "stars": 19195,
             "topics": [
               "committee",
               "ecmascript",
@@ -334,7 +334,7 @@
             "language": "C#",
             "license": null,
             "last_commit": "2026-10-12T15:51:27Z",
-            "open_issues": 293,
+            "open_issues": 299,
             "owner": "dotnet",
             "repo": "csharplang",
             "stars": 12717,
@@ -386,7 +386,7 @@
             "open_issues": 5,
             "owner": "golang",
             "repo": "proposal",
-            "stars": 3459,
+            "stars": 3458,
             "topics": []
           },
           "first_seen": "2026-08-29T02:21:20.623Z"
@@ -403,8 +403,8 @@
             "id": 137279731,
             "language": "TeX",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-12T22:39:41Z",
-            "open_issues": 1300,
+            "last_commit": "2026-10-13T22:14:27Z",
+            "open_issues": 1299,
             "owner": "dart-lang",
             "repo": "language",
             "stars": 2934,
@@ -428,8 +428,8 @@
             "id": 62967877,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-09-11T15:34:40Z",
-            "open_issues": 196,
+            "last_commit": "2026-10-13T12:40:30Z",
+            "open_issues": 195,
             "owner": "ghc-proposals",
             "repo": "ghc-proposals",
             "stars": 708,
@@ -593,7 +593,7 @@
             "open_issues": 53,
             "owner": "reactjs",
             "repo": "rfcs",
-            "stars": 5815,
+            "stars": 5816,
             "topics": []
           },
           "first_seen": "2026-08-29T02:21:20.623Z"
@@ -614,7 +614,7 @@
             "open_issues": 63,
             "owner": "vuejs",
             "repo": "rfcs",
-            "stars": 4930,
+            "stars": 4931,
             "topics": []
           },
           "first_seen": "2026-08-29T02:21:20.623Z"
@@ -631,7 +631,7 @@
             "id": 184463891,
             "language": "Makefile",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-13T00:37:15Z",
+            "last_commit": "2026-10-13T08:30:38Z",
             "open_issues": 247,
             "owner": "open-telemetry",
             "repo": "opentelemetry-specification",
@@ -1038,7 +1038,7 @@
             "open_issues": 70,
             "owner": "bitcoin",
             "repo": "bips",
-            "stars": 10965,
+            "stars": 10967,
             "topics": []
           },
           "first_seen": "2026-08-29T02:21:20.623Z"
@@ -1056,7 +1056,7 @@
             "language": "Markdown",
             "license": null,
             "last_commit": "2026-09-21T17:24:56Z",
-            "open_issues": 46,
+            "open_issues": 47,
             "owner": "lightning",
             "repo": "bolts",
             "stars": 2250,
@@ -1105,8 +1105,8 @@
             "id": 50844973,
             "language": "Markdown",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-10-09T08:42:43Z",
-            "open_issues": 24,
+            "last_commit": "2026-10-13T11:51:40Z",
+            "open_issues": 25,
             "owner": "satoshilabs",
             "repo": "slips",
             "stars": 1696,
@@ -1257,7 +1257,7 @@
             "open_issues": 16,
             "owner": "near",
             "repo": "NEPs",
-            "stars": 240,
+            "stars": 241,
             "topics": [
               "blockchain",
               "documentation",
@@ -1399,7 +1399,7 @@
             "open_issues": 0,
             "owner": "Kristories",
             "repo": "awesome-guidelines",
-            "stars": 11176,
+            "stars": 11178,
             "topics": [
               "awesome",
               "awesome-guidelines",
@@ -1430,7 +1430,7 @@
             "open_issues": 58,
             "owner": "yosriady",
             "repo": "awesome-api-devtools",
-            "stars": 4015,
+            "stars": 4014,
             "topics": [
               "api",
               "api-client",
@@ -1489,7 +1489,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T01:30:36.881Z",
+    "last_updated": "2026-10-13T23:21:38.001Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of technical standards, they may be called requests for comments, proposals, drafts, notes, specifications, or something else",
@@ -1501,7 +1501,7 @@
       "open_issues": 4,
       "owner": "donbarbos",
       "repo": "awesome-standards",
-      "stars": 242,
+      "stars": 243,
       "topics": [
         "awesome",
         "awesome-list",
