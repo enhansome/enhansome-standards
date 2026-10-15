@@ -15,38 +15,12 @@
             "id": 27729880,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-14T21:02:47Z",
-            "open_issues": 1353,
+            "last_commit": "2026-10-15T15:49:16Z",
+            "open_issues": 1356,
             "owner": "grpc",
             "repo": "grpc",
-            "stars": 45376,
+            "stars": 45379,
             "topics": []
-          },
-          "first_seen": "2026-08-29T02:21:20.623Z"
-        },
-        {
-          "node_type": "item",
-          "title": "API Security Checklist",
-          "description": "Checklist of the most important security countermeasures.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Checklist of the most important security countermeasures when designing, testing, and releasing your API",
-            "homepage": null,
-            "id": 96641209,
-            "language": null,
-            "license": "MIT",
-            "last_commit": "2026-07-21T07:59:55Z",
-            "open_issues": 2,
-            "owner": "shieldfy",
-            "repo": "API-Security-Checklist",
-            "stars": 23335,
-            "topics": [
-              "api",
-              "jwt",
-              "oauth2",
-              "security"
-            ]
           },
           "first_seen": "2026-08-29T02:21:20.623Z"
         },
@@ -66,12 +40,38 @@
             "open_issues": 181,
             "owner": "microsoft",
             "repo": "api-guidelines",
-            "stars": 23333,
+            "stars": 23335,
             "topics": [
               "api",
               "guidelines",
               "rest-api",
               "styleguide"
+            ]
+          },
+          "first_seen": "2026-08-29T02:21:20.623Z"
+        },
+        {
+          "node_type": "item",
+          "title": "API Security Checklist",
+          "description": "Checklist of the most important security countermeasures.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Checklist of the most important security countermeasures when designing, testing, and releasing your API",
+            "homepage": null,
+            "id": 96641209,
+            "language": null,
+            "license": "MIT",
+            "last_commit": "2026-07-21T07:59:55Z",
+            "open_issues": 2,
+            "owner": "shieldfy",
+            "repo": "API-Security-Checklist",
+            "stars": 23333,
+            "topics": [
+              "api",
+              "jwt",
+              "oauth2",
+              "security"
             ]
           },
           "first_seen": "2026-08-29T02:21:20.623Z"
@@ -88,8 +88,8 @@
             "id": 310611,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-14T07:02:01Z",
-            "open_issues": 33,
+            "last_commit": "2026-10-15T22:32:11Z",
+            "open_issues": 31,
             "owner": "apache",
             "repo": "thrift",
             "stars": 10959,
@@ -121,11 +121,11 @@
             "id": 113701924,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-03T16:12:26Z",
+            "last_commit": "2026-10-15T16:18:52Z",
             "open_issues": 20,
             "owner": "cloudevents",
             "repo": "spec",
-            "stars": 5929,
+            "stars": 5930,
             "topics": [
               "serverless",
               "specification"
@@ -279,10 +279,10 @@
             "language": "Zig",
             "license": "MIT",
             "last_commit": "2025-11-27T01:42:59Z",
-            "open_issues": 2764,
+            "open_issues": 2760,
             "owner": "ziglang",
             "repo": "zig",
-            "stars": 43286,
+            "stars": 43282,
             "topics": [
               "compiler",
               "language",
@@ -304,7 +304,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-10-14T22:23:22Z",
-            "open_issues": 7,
+            "open_issues": 8,
             "owner": "tc39",
             "repo": "proposals",
             "stars": 19196,
@@ -333,11 +333,11 @@
             "id": 75990888,
             "language": "C#",
             "license": null,
-            "last_commit": "2026-10-14T21:52:07Z",
-            "open_issues": 294,
+            "last_commit": "2026-10-15T16:41:13Z",
+            "open_issues": 295,
             "owner": "dotnet",
             "repo": "csharplang",
-            "stars": 12719,
+            "stars": 12722,
             "topics": [
               "csharp",
               "language-design"
@@ -357,8 +357,8 @@
             "id": 54388526,
             "language": "Markdown",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-14T10:35:55Z",
-            "open_issues": 12,
+            "last_commit": "2026-10-15T18:36:22Z",
+            "open_issues": 13,
             "owner": "Kotlin",
             "repo": "KEEP",
             "stars": 3774,
@@ -382,7 +382,7 @@
             "id": 39874513,
             "language": "HTML",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-08-07T11:49:13Z",
+            "last_commit": "2026-10-15T16:27:31Z",
             "open_issues": 5,
             "owner": "golang",
             "repo": "proposal",
@@ -403,8 +403,8 @@
             "id": 137279731,
             "language": "TeX",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-14T20:45:36Z",
-            "open_issues": 1299,
+            "last_commit": "2026-10-15T20:49:13Z",
+            "open_issues": 1297,
             "owner": "dart-lang",
             "repo": "language",
             "stars": 2935,
@@ -611,10 +611,10 @@
             "language": null,
             "license": null,
             "last_commit": "2025-01-08T09:33:49Z",
-            "open_issues": 63,
+            "open_issues": 62,
             "owner": "vuejs",
             "repo": "rfcs",
-            "stars": 4930,
+            "stars": 4926,
             "topics": []
           },
           "first_seen": "2026-08-29T02:21:20.623Z"
@@ -632,10 +632,10 @@
             "language": "Makefile",
             "license": "Apache-2.0",
             "last_commit": "2026-10-13T08:30:38Z",
-            "open_issues": 253,
+            "open_issues": 252,
             "owner": "open-telemetry",
             "repo": "opentelemetry-specification",
-            "stars": 4352,
+            "stars": 4367,
             "topics": [
               "opentelemetry"
             ]
@@ -654,8 +654,8 @@
             "id": 227151548,
             "language": "Dockerfile",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-14T18:25:22Z",
-            "open_issues": 15,
+            "last_commit": "2026-10-15T02:04:19Z",
+            "open_issues": 16,
             "owner": "compose-spec",
             "repo": "compose-spec",
             "stars": 2736,
@@ -711,7 +711,7 @@
             "open_issues": 79,
             "owner": "projectfluent",
             "repo": "fluent",
-            "stars": 1680,
+            "stars": 1682,
             "topics": [
               "asdl",
               "ebnf",
@@ -776,7 +776,7 @@
             "open_issues": 26,
             "owner": "NixOS",
             "repo": "rfcs",
-            "stars": 657,
+            "stars": 658,
             "topics": []
           },
           "first_seen": "2026-08-29T02:21:20.623Z"
@@ -818,7 +818,7 @@
             "open_issues": 107,
             "owner": "helm",
             "repo": "community",
-            "stars": 497,
+            "stars": 496,
             "topics": [
               "cncf"
             ]
@@ -957,7 +957,7 @@
             "open_issues": 4,
             "owner": "jenkinsci",
             "repo": "jep",
-            "stars": 150,
+            "stars": 149,
             "topics": [
               "enhancement",
               "governance",
@@ -1038,7 +1038,7 @@
             "open_issues": 69,
             "owner": "bitcoin",
             "repo": "bips",
-            "stars": 10966,
+            "stars": 10970,
             "topics": []
           },
           "first_seen": "2026-08-29T02:21:20.623Z"
@@ -1106,7 +1106,7 @@
             "language": "Markdown",
             "license": "CC-BY-SA-4.0",
             "last_commit": "2026-10-13T11:51:40Z",
-            "open_issues": 25,
+            "open_issues": 26,
             "owner": "satoshilabs",
             "repo": "slips",
             "stars": 1695,
@@ -1130,7 +1130,7 @@
             "open_issues": 99,
             "owner": "ChainAgnostic",
             "repo": "CAIPs",
-            "stars": 644,
+            "stars": 643,
             "topics": [
               "bip",
               "bitcoin",
@@ -1253,7 +1253,7 @@
             "id": 190420860,
             "language": null,
             "license": null,
-            "last_commit": "2026-10-14T09:50:49Z",
+            "last_commit": "2026-10-15T10:30:56Z",
             "open_issues": 15,
             "owner": "near",
             "repo": "NEPs",
@@ -1399,7 +1399,7 @@
             "open_issues": 0,
             "owner": "Kristories",
             "repo": "awesome-guidelines",
-            "stars": 11181,
+            "stars": 11187,
             "topics": [
               "awesome",
               "awesome-guidelines",
@@ -1489,7 +1489,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T22:27:36.771Z",
+    "last_updated": "2026-10-15T22:32:43.613Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of technical standards, they may be called requests for comments, proposals, drafts, notes, specifications, or something else",
