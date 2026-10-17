@@ -15,11 +15,11 @@
             "id": 27729880,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-16T21:33:48Z",
+            "last_commit": "2026-10-17T08:10:51Z",
             "open_issues": 1357,
             "owner": "grpc",
             "repo": "grpc",
-            "stars": 45383,
+            "stars": 45386,
             "topics": []
           },
           "first_seen": "2026-08-29T02:21:20.623Z"
@@ -88,11 +88,11 @@
             "id": 310611,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-16T21:30:50Z",
-            "open_issues": 31,
+            "last_commit": "2026-10-17T00:30:44Z",
+            "open_issues": 26,
             "owner": "apache",
             "repo": "thrift",
-            "stars": 10959,
+            "stars": 10960,
             "topics": [
               "actionscript",
               "c",
@@ -125,7 +125,7 @@
             "open_issues": 20,
             "owner": "cloudevents",
             "repo": "spec",
-            "stars": 5934,
+            "stars": 5935,
             "topics": [
               "serverless",
               "specification"
@@ -333,11 +333,11 @@
             "id": 75990888,
             "language": "C#",
             "license": null,
-            "last_commit": "2026-10-16T21:39:38Z",
+            "last_commit": "2026-10-17T18:11:34Z",
             "open_issues": 294,
             "owner": "dotnet",
             "repo": "csharplang",
-            "stars": 12720,
+            "stars": 12719,
             "topics": [
               "csharp",
               "language-design"
@@ -450,7 +450,7 @@
             "language": "F#",
             "license": null,
             "last_commit": "2026-10-09T09:37:16Z",
-            "open_issues": 39,
+            "open_issues": 40,
             "owner": "fsharp",
             "repo": "fslang-design",
             "stars": 559,
@@ -635,7 +635,7 @@
             "open_issues": 251,
             "owner": "open-telemetry",
             "repo": "opentelemetry-specification",
-            "stars": 4367,
+            "stars": 4368,
             "topics": [
               "opentelemetry"
             ]
@@ -776,7 +776,7 @@
             "open_issues": 26,
             "owner": "NixOS",
             "repo": "rfcs",
-            "stars": 658,
+            "stars": 659,
             "topics": []
           },
           "first_seen": "2026-08-29T02:21:20.623Z"
@@ -1038,7 +1038,7 @@
             "open_issues": 69,
             "owner": "bitcoin",
             "repo": "bips",
-            "stars": 10971,
+            "stars": 10969,
             "topics": []
           },
           "first_seen": "2026-08-29T02:21:20.623Z"
@@ -1105,7 +1105,7 @@
             "id": 50844973,
             "language": "Markdown",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-10-13T11:51:40Z",
+            "last_commit": "2026-10-16T22:42:39Z",
             "open_issues": 26,
             "owner": "satoshilabs",
             "repo": "slips",
@@ -1399,7 +1399,7 @@
             "open_issues": 0,
             "owner": "Kristories",
             "repo": "awesome-guidelines",
-            "stars": 11188,
+            "stars": 11191,
             "topics": [
               "awesome",
               "awesome-guidelines",
@@ -1427,7 +1427,7 @@
             "language": null,
             "license": null,
             "last_commit": "2025-12-20T03:13:46Z",
-            "open_issues": 60,
+            "open_issues": 62,
             "owner": "yosriady",
             "repo": "awesome-api-devtools",
             "stars": 4014,
@@ -1489,7 +1489,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T22:09:19.311Z",
+    "last_updated": "2026-10-17T21:34:12.997Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of technical standards, they may be called requests for comments, proposals, drafts, notes, specifications, or something else",
