@@ -15,11 +15,11 @@
             "id": 27729880,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-17T08:10:51Z",
-            "open_issues": 1357,
+            "last_commit": "2026-10-18T09:52:58Z",
+            "open_issues": 1356,
             "owner": "grpc",
             "repo": "grpc",
-            "stars": 45386,
+            "stars": 45389,
             "topics": []
           },
           "first_seen": "2026-08-29T02:21:20.623Z"
@@ -40,7 +40,7 @@
             "open_issues": 181,
             "owner": "microsoft",
             "repo": "api-guidelines",
-            "stars": 23335,
+            "stars": 23337,
             "topics": [
               "api",
               "guidelines",
@@ -66,7 +66,7 @@
             "open_issues": 2,
             "owner": "shieldfy",
             "repo": "API-Security-Checklist",
-            "stars": 23334,
+            "stars": 23333,
             "topics": [
               "api",
               "jwt",
@@ -89,7 +89,7 @@
             "language": "C++",
             "license": "Apache-2.0",
             "last_commit": "2026-10-17T00:30:44Z",
-            "open_issues": 26,
+            "open_issues": 27,
             "owner": "apache",
             "repo": "thrift",
             "stars": 10960,
@@ -125,7 +125,7 @@
             "open_issues": 20,
             "owner": "cloudevents",
             "repo": "spec",
-            "stars": 5935,
+            "stars": 5936,
             "topics": [
               "serverless",
               "specification"
@@ -307,7 +307,7 @@
             "open_issues": 8,
             "owner": "tc39",
             "repo": "proposals",
-            "stars": 19198,
+            "stars": 19199,
             "topics": [
               "committee",
               "ecmascript",
@@ -334,10 +334,10 @@
             "language": "C#",
             "license": null,
             "last_commit": "2026-10-17T18:11:34Z",
-            "open_issues": 294,
+            "open_issues": 295,
             "owner": "dotnet",
             "repo": "csharplang",
-            "stars": 12719,
+            "stars": 12720,
             "topics": [
               "csharp",
               "language-design"
@@ -635,7 +635,7 @@
             "open_issues": 251,
             "owner": "open-telemetry",
             "repo": "opentelemetry-specification",
-            "stars": 4368,
+            "stars": 4367,
             "topics": [
               "opentelemetry"
             ]
@@ -682,7 +682,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-09-17T15:51:19Z",
-            "open_issues": 267,
+            "open_issues": 268,
             "owner": "react-native-community",
             "repo": "discussions-and-proposals",
             "stars": 1823,
@@ -711,7 +711,7 @@
             "open_issues": 79,
             "owner": "projectfluent",
             "repo": "fluent",
-            "stars": 1682,
+            "stars": 1683,
             "topics": [
               "asdl",
               "ebnf",
@@ -936,7 +936,7 @@
             "open_issues": 11,
             "owner": "eslint",
             "repo": "rfcs",
-            "stars": 159,
+            "stars": 160,
             "topics": []
           },
           "first_seen": "2026-08-29T02:21:20.623Z"
@@ -1038,7 +1038,7 @@
             "open_issues": 69,
             "owner": "bitcoin",
             "repo": "bips",
-            "stars": 10969,
+            "stars": 10972,
             "topics": []
           },
           "first_seen": "2026-08-29T02:21:20.623Z"
@@ -1106,7 +1106,7 @@
             "language": "Markdown",
             "license": "CC-BY-SA-4.0",
             "last_commit": "2026-10-16T22:42:39Z",
-            "open_issues": 26,
+            "open_issues": 27,
             "owner": "satoshilabs",
             "repo": "slips",
             "stars": 1695,
@@ -1399,7 +1399,7 @@
             "open_issues": 0,
             "owner": "Kristories",
             "repo": "awesome-guidelines",
-            "stars": 11191,
+            "stars": 11196,
             "topics": [
               "awesome",
               "awesome-guidelines",
@@ -1489,7 +1489,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T21:34:12.997Z",
+    "last_updated": "2026-10-18T21:38:38.643Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of technical standards, they may be called requests for comments, proposals, drafts, notes, specifications, or something else",
