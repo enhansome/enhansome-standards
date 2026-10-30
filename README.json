@@ -15,38 +15,12 @@
             "id": 27729880,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-29T19:03:41Z",
-            "open_issues": 1364,
+            "last_commit": "2026-10-30T22:15:39Z",
+            "open_issues": 1349,
             "owner": "grpc",
             "repo": "grpc",
-            "stars": 45405,
+            "stars": 45407,
             "topics": []
-          },
-          "first_seen": "2026-08-29T02:21:20.623Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Microsoft REST API Guidelines",
-          "description": "Repository contains a collection of documents and related materials.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Microsoft REST API Guidelines",
-            "homepage": null,
-            "id": 63188650,
-            "language": null,
-            "license": "NOASSERTION",
-            "last_commit": "2026-08-05T00:07:38Z",
-            "open_issues": 183,
-            "owner": "microsoft",
-            "repo": "api-guidelines",
-            "stars": 23339,
-            "topics": [
-              "api",
-              "guidelines",
-              "rest-api",
-              "styleguide"
-            ]
           },
           "first_seen": "2026-08-29T02:21:20.623Z"
         },
@@ -66,12 +40,38 @@
             "open_issues": 2,
             "owner": "shieldfy",
             "repo": "API-Security-Checklist",
-            "stars": 23337,
+            "stars": 23341,
             "topics": [
               "api",
               "jwt",
               "oauth2",
               "security"
+            ]
+          },
+          "first_seen": "2026-08-29T02:21:20.623Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Microsoft REST API Guidelines",
+          "description": "Repository contains a collection of documents and related materials.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Microsoft REST API Guidelines",
+            "homepage": null,
+            "id": 63188650,
+            "language": null,
+            "license": "NOASSERTION",
+            "last_commit": "2026-10-30T20:17:50Z",
+            "open_issues": 182,
+            "owner": "microsoft",
+            "repo": "api-guidelines",
+            "stars": 23339,
+            "topics": [
+              "api",
+              "guidelines",
+              "rest-api",
+              "styleguide"
             ]
           },
           "first_seen": "2026-08-29T02:21:20.623Z"
@@ -89,7 +89,7 @@
             "language": "C++",
             "license": "Apache-2.0",
             "last_commit": "2026-10-29T21:21:38Z",
-            "open_issues": 19,
+            "open_issues": 22,
             "owner": "apache",
             "repo": "thrift",
             "stars": 10960,
@@ -125,7 +125,7 @@
             "open_issues": 19,
             "owner": "cloudevents",
             "repo": "spec",
-            "stars": 5944,
+            "stars": 5945,
             "topics": [
               "serverless",
               "specification"
@@ -282,7 +282,7 @@
             "open_issues": 2715,
             "owner": "ziglang",
             "repo": "zig",
-            "stars": 43261,
+            "stars": 43256,
             "topics": [
               "compiler",
               "language",
@@ -307,7 +307,7 @@
             "open_issues": 8,
             "owner": "tc39",
             "repo": "proposals",
-            "stars": 19205,
+            "stars": 19203,
             "topics": [
               "committee",
               "ecmascript",
@@ -333,8 +333,8 @@
             "id": 75990888,
             "language": "C#",
             "license": null,
-            "last_commit": "2026-10-20T19:34:28Z",
-            "open_issues": 296,
+            "last_commit": "2026-10-30T17:41:32Z",
+            "open_issues": 298,
             "owner": "dotnet",
             "repo": "csharplang",
             "stars": 12727,
@@ -403,8 +403,8 @@
             "id": 137279731,
             "language": "TeX",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-29T14:19:00Z",
-            "open_issues": 1290,
+            "last_commit": "2026-10-30T16:38:48Z",
+            "open_issues": 1288,
             "owner": "dart-lang",
             "repo": "language",
             "stars": 2941,
@@ -593,7 +593,7 @@
             "open_issues": 53,
             "owner": "reactjs",
             "repo": "rfcs",
-            "stars": 5820,
+            "stars": 5819,
             "topics": []
           },
           "first_seen": "2026-08-29T02:21:20.623Z"
@@ -631,11 +631,11 @@
             "id": 184463891,
             "language": "Makefile",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-28T16:53:54Z",
-            "open_issues": 250,
+            "last_commit": "2026-10-30T15:37:06Z",
+            "open_issues": 249,
             "owner": "open-telemetry",
             "repo": "opentelemetry-specification",
-            "stars": 4377,
+            "stars": 4379,
             "topics": [
               "opentelemetry"
             ]
@@ -655,10 +655,10 @@
             "language": "Dockerfile",
             "license": "Apache-2.0",
             "last_commit": "2026-10-23T14:35:05Z",
-            "open_issues": 15,
+            "open_issues": 16,
             "owner": "compose-spec",
             "repo": "compose-spec",
-            "stars": 2741,
+            "stars": 2742,
             "topics": [
               "compose",
               "containers",
@@ -740,8 +740,8 @@
             "id": 131072921,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-15T05:13:33Z",
-            "open_issues": 182,
+            "last_commit": "2026-10-30T18:37:56Z",
+            "open_issues": 181,
             "owner": "npm",
             "repo": "rfcs",
             "stars": 780,
@@ -794,7 +794,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-10-14T21:22:14Z",
-            "open_issues": 18,
+            "open_issues": 19,
             "owner": "django",
             "repo": "deps",
             "stars": 530,
@@ -1004,7 +1004,7 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-10-08T19:13:11Z",
-            "open_issues": 74,
+            "open_issues": 75,
             "owner": "conda",
             "repo": "ceps",
             "stars": 34,
@@ -1088,7 +1088,7 @@
             "open_issues": 192,
             "owner": "libp2p",
             "repo": "specs",
-            "stars": 1784,
+            "stars": 1785,
             "topics": []
           },
           "first_seen": "2026-08-29T02:21:20.623Z"
@@ -1105,8 +1105,8 @@
             "id": 50844973,
             "language": "Markdown",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-10-29T22:01:56Z",
-            "open_issues": 36,
+            "last_commit": "2026-10-30T16:49:48Z",
+            "open_issues": 35,
             "owner": "satoshilabs",
             "repo": "slips",
             "stars": 1697,
@@ -1305,8 +1305,8 @@
             "id": 604090446,
             "language": null,
             "license": "NOASSERTION",
-            "last_commit": "2026-09-29T12:36:35Z",
-            "open_issues": 14,
+            "last_commit": "2026-10-30T15:52:43Z",
+            "open_issues": 13,
             "owner": "0xPolygon",
             "repo": "Polygon-Improvement-Proposals",
             "stars": 122,
@@ -1399,7 +1399,7 @@
             "open_issues": 0,
             "owner": "Kristories",
             "repo": "awesome-guidelines",
-            "stars": 11229,
+            "stars": 11232,
             "topics": [
               "awesome",
               "awesome-guidelines",
@@ -1489,7 +1489,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T23:28:21.097Z",
+    "last_updated": "2026-10-30T23:04:31.546Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of technical standards, they may be called requests for comments, proposals, drafts, notes, specifications, or something else",
