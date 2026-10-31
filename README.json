@@ -16,10 +16,10 @@
             "language": "C++",
             "license": "Apache-2.0",
             "last_commit": "2026-10-30T22:15:39Z",
-            "open_issues": 1349,
+            "open_issues": 1355,
             "owner": "grpc",
             "repo": "grpc",
-            "stars": 45407,
+            "stars": 45410,
             "topics": []
           },
           "first_seen": "2026-08-29T02:21:20.623Z"
@@ -88,11 +88,11 @@
             "id": 310611,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-29T21:21:38Z",
-            "open_issues": 22,
+            "last_commit": "2026-10-31T12:23:21Z",
+            "open_issues": 21,
             "owner": "apache",
             "repo": "thrift",
-            "stars": 10960,
+            "stars": 10961,
             "topics": [
               "actionscript",
               "c",
@@ -125,7 +125,7 @@
             "open_issues": 19,
             "owner": "cloudevents",
             "repo": "spec",
-            "stars": 5945,
+            "stars": 5946,
             "topics": [
               "serverless",
               "specification"
@@ -282,7 +282,7 @@
             "open_issues": 2715,
             "owner": "ziglang",
             "repo": "zig",
-            "stars": 43256,
+            "stars": 43258,
             "topics": [
               "compiler",
               "language",
@@ -333,11 +333,11 @@
             "id": 75990888,
             "language": "C#",
             "license": null,
-            "last_commit": "2026-10-30T17:41:32Z",
-            "open_issues": 298,
+            "last_commit": "2026-10-31T00:24:19Z",
+            "open_issues": 295,
             "owner": "dotnet",
             "repo": "csharplang",
-            "stars": 12727,
+            "stars": 12728,
             "topics": [
               "csharp",
               "language-design"
@@ -361,7 +361,7 @@
             "open_issues": 13,
             "owner": "Kotlin",
             "repo": "KEEP",
-            "stars": 3777,
+            "stars": 3778,
             "topics": [
               "evolution",
               "kotlin",
@@ -450,7 +450,7 @@
             "language": "F#",
             "license": null,
             "last_commit": "2026-10-09T09:37:16Z",
-            "open_issues": 41,
+            "open_issues": 46,
             "owner": "fsharp",
             "repo": "fslang-design",
             "stars": 560,
@@ -631,8 +631,8 @@
             "id": 184463891,
             "language": "Makefile",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-30T15:37:06Z",
-            "open_issues": 249,
+            "last_commit": "2026-10-31T15:44:13Z",
+            "open_issues": 248,
             "owner": "open-telemetry",
             "repo": "opentelemetry-specification",
             "stars": 4379,
@@ -682,7 +682,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-09-17T15:51:19Z",
-            "open_issues": 268,
+            "open_issues": 269,
             "owner": "react-native-community",
             "repo": "discussions-and-proposals",
             "stars": 1823,
@@ -1038,7 +1038,7 @@
             "open_issues": 67,
             "owner": "bitcoin",
             "repo": "bips",
-            "stars": 10998,
+            "stars": 11000,
             "topics": []
           },
           "first_seen": "2026-08-29T02:21:20.623Z"
@@ -1130,7 +1130,7 @@
             "open_issues": 100,
             "owner": "ChainAgnostic",
             "repo": "CAIPs",
-            "stars": 642,
+            "stars": 643,
             "topics": [
               "bip",
               "bitcoin",
@@ -1254,7 +1254,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-10-19T08:42:28Z",
-            "open_issues": 16,
+            "open_issues": 18,
             "owner": "near",
             "repo": "NEPs",
             "stars": 240,
@@ -1489,7 +1489,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T23:04:31.546Z",
+    "last_updated": "2026-10-31T22:39:43.650Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of technical standards, they may be called requests for comments, proposals, drafts, notes, specifications, or something else",
