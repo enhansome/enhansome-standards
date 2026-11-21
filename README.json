@@ -16,10 +16,10 @@
             "language": "C++",
             "license": "Apache-2.0",
             "last_commit": "2026-11-20T23:24:13Z",
-            "open_issues": 1388,
+            "open_issues": 1389,
             "owner": "grpc",
             "repo": "grpc",
-            "stars": 45458,
+            "stars": 45457,
             "topics": []
           },
           "first_seen": "2026-08-29T02:21:20.623Z"
@@ -40,7 +40,7 @@
             "open_issues": 2,
             "owner": "shieldfy",
             "repo": "API-Security-Checklist",
-            "stars": 23369,
+            "stars": 23370,
             "topics": [
               "api",
               "jwt",
@@ -88,11 +88,11 @@
             "id": 310611,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-21T00:45:12Z",
+            "last_commit": "2026-11-21T22:47:47Z",
             "open_issues": 47,
             "owner": "apache",
             "repo": "thrift",
-            "stars": 10970,
+            "stars": 10971,
             "topics": [
               "actionscript",
               "c",
@@ -122,7 +122,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-11-20T03:57:41Z",
-            "open_issues": 21,
+            "open_issues": 23,
             "owner": "cloudevents",
             "repo": "spec",
             "stars": 5961,
@@ -282,7 +282,7 @@
             "open_issues": 2708,
             "owner": "ziglang",
             "repo": "zig",
-            "stars": 43279,
+            "stars": 43275,
             "topics": [
               "compiler",
               "language",
@@ -337,7 +337,7 @@
             "open_issues": 290,
             "owner": "dotnet",
             "repo": "csharplang",
-            "stars": 12743,
+            "stars": 12744,
             "topics": [
               "csharp",
               "language-design"
@@ -386,7 +386,7 @@
             "open_issues": 5,
             "owner": "golang",
             "repo": "proposal",
-            "stars": 3458,
+            "stars": 3459,
             "topics": []
           },
           "first_seen": "2026-08-29T02:21:20.623Z"
@@ -407,7 +407,7 @@
             "open_issues": 1294,
             "owner": "dart-lang",
             "repo": "language",
-            "stars": 2942,
+            "stars": 2944,
             "topics": [
               "dart-language",
               "language-changes",
@@ -711,7 +711,7 @@
             "open_issues": 79,
             "owner": "projectfluent",
             "repo": "fluent",
-            "stars": 1694,
+            "stars": 1695,
             "topics": [
               "asdl",
               "ebnf",
@@ -890,7 +890,7 @@
             "open_issues": 17,
             "owner": "sveltejs",
             "repo": "rfcs",
-            "stars": 285,
+            "stars": 284,
             "topics": []
           },
           "first_seen": "2026-08-29T02:21:20.623Z"
@@ -1038,7 +1038,7 @@
             "open_issues": 58,
             "owner": "bitcoin",
             "repo": "bips",
-            "stars": 11043,
+            "stars": 11045,
             "topics": []
           },
           "first_seen": "2026-08-29T02:21:20.623Z"
@@ -1399,7 +1399,7 @@
             "open_issues": 0,
             "owner": "Kristories",
             "repo": "awesome-guidelines",
-            "stars": 11281,
+            "stars": 11279,
             "topics": [
               "awesome",
               "awesome-guidelines",
@@ -1427,10 +1427,10 @@
             "language": null,
             "license": null,
             "last_commit": "2025-12-20T03:13:46Z",
-            "open_issues": 77,
+            "open_issues": 78,
             "owner": "yosriady",
             "repo": "awesome-api-devtools",
-            "stars": 4014,
+            "stars": 4013,
             "topics": [
               "api",
               "api-client",
@@ -1489,7 +1489,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T00:53:36.548Z",
+    "last_updated": "2026-11-21T23:51:53.820Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of technical standards, they may be called requests for comments, proposals, drafts, notes, specifications, or something else",
@@ -1501,7 +1501,7 @@
       "open_issues": 4,
       "owner": "donbarbos",
       "repo": "awesome-standards",
-      "stars": 246,
+      "stars": 248,
       "topics": [
         "awesome",
         "awesome-list",
