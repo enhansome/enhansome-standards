@@ -15,11 +15,11 @@
             "id": 27729880,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-22T00:51:49Z",
-            "open_issues": 1389,
+            "last_commit": "2026-11-24T04:18:23Z",
+            "open_issues": 1393,
             "owner": "grpc",
             "repo": "grpc",
-            "stars": 45462,
+            "stars": 45457,
             "topics": []
           },
           "first_seen": "2026-08-29T02:21:20.623Z"
@@ -40,7 +40,7 @@
             "open_issues": 2,
             "owner": "shieldfy",
             "repo": "API-Security-Checklist",
-            "stars": 23369,
+            "stars": 23370,
             "topics": [
               "api",
               "jwt",
@@ -66,7 +66,7 @@
             "open_issues": 183,
             "owner": "microsoft",
             "repo": "api-guidelines",
-            "stars": 23353,
+            "stars": 23355,
             "topics": [
               "api",
               "guidelines",
@@ -88,11 +88,11 @@
             "id": 310611,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-22T21:32:47Z",
-            "open_issues": 47,
+            "last_commit": "2026-11-23T21:26:33Z",
+            "open_issues": 48,
             "owner": "apache",
             "repo": "thrift",
-            "stars": 10971,
+            "stars": 10970,
             "topics": [
               "actionscript",
               "c",
@@ -149,7 +149,7 @@
             "open_issues": 226,
             "owner": "raml-org",
             "repo": "raml-spec",
-            "stars": 3839,
+            "stars": 3838,
             "topics": [
               "api-definition",
               "api-documentation",
@@ -282,7 +282,7 @@
             "open_issues": 2708,
             "owner": "ziglang",
             "repo": "zig",
-            "stars": 43281,
+            "stars": 43297,
             "topics": [
               "compiler",
               "language",
@@ -307,7 +307,7 @@
             "open_issues": 7,
             "owner": "tc39",
             "repo": "proposals",
-            "stars": 19204,
+            "stars": 19205,
             "topics": [
               "committee",
               "ecmascript",
@@ -337,7 +337,7 @@
             "open_issues": 290,
             "owner": "dotnet",
             "repo": "csharplang",
-            "stars": 12743,
+            "stars": 12740,
             "topics": [
               "csharp",
               "language-design"
@@ -361,7 +361,7 @@
             "open_issues": 12,
             "owner": "Kotlin",
             "repo": "KEEP",
-            "stars": 3776,
+            "stars": 3775,
             "topics": [
               "evolution",
               "kotlin",
@@ -403,11 +403,11 @@
             "id": 137279731,
             "language": "TeX",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-20T12:46:46Z",
-            "open_issues": 1294,
+            "last_commit": "2026-11-23T22:20:44Z",
+            "open_issues": 1292,
             "owner": "dart-lang",
             "repo": "language",
-            "stars": 2944,
+            "stars": 2945,
             "topics": [
               "dart-language",
               "language-changes",
@@ -429,7 +429,7 @@
             "language": "Python",
             "license": null,
             "last_commit": "2026-10-20T18:15:05Z",
-            "open_issues": 198,
+            "open_issues": 199,
             "owner": "ghc-proposals",
             "repo": "ghc-proposals",
             "stars": 707,
@@ -453,7 +453,7 @@
             "open_issues": 49,
             "owner": "fsharp",
             "repo": "fslang-design",
-            "stars": 562,
+            "stars": 563,
             "topics": [
               "fsharp",
               "language-design",
@@ -518,7 +518,7 @@
             "language": "Perl",
             "license": null,
             "last_commit": "2026-08-26T14:14:10Z",
-            "open_issues": 18,
+            "open_issues": 19,
             "owner": "Perl",
             "repo": "PPCs",
             "stars": 81,
@@ -593,7 +593,7 @@
             "open_issues": 53,
             "owner": "reactjs",
             "repo": "rfcs",
-            "stars": 5819,
+            "stars": 5816,
             "topics": []
           },
           "first_seen": "2026-08-29T02:21:20.623Z"
@@ -631,11 +631,11 @@
             "id": 184463891,
             "language": "Makefile",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-20T16:21:51Z",
-            "open_issues": 268,
+            "last_commit": "2026-11-24T01:57:38Z",
+            "open_issues": 264,
             "owner": "open-telemetry",
             "repo": "opentelemetry-specification",
-            "stars": 4400,
+            "stars": 4401,
             "topics": [
               "opentelemetry"
             ]
@@ -932,11 +932,11 @@
             "id": 156903008,
             "language": null,
             "license": null,
-            "last_commit": "2026-11-20T15:35:40Z",
-            "open_issues": 12,
+            "last_commit": "2026-11-23T21:04:32Z",
+            "open_issues": 13,
             "owner": "eslint",
             "repo": "rfcs",
-            "stars": 161,
+            "stars": 162,
             "topics": []
           },
           "first_seen": "2026-08-29T02:21:20.623Z"
@@ -1034,11 +1034,11 @@
             "id": 14531737,
             "language": "Wikitext",
             "license": null,
-            "last_commit": "2026-11-20T18:06:34Z",
-            "open_issues": 59,
+            "last_commit": "2026-11-23T22:51:16Z",
+            "open_issues": 61,
             "owner": "bitcoin",
             "repo": "bips",
-            "stars": 11046,
+            "stars": 11049,
             "topics": []
           },
           "first_seen": "2026-08-29T02:21:20.623Z"
@@ -1059,7 +1059,7 @@
             "open_issues": 49,
             "owner": "lightning",
             "repo": "bolts",
-            "stars": 2256,
+            "stars": 2257,
             "topics": [
               "bitcoin",
               "blockchain",
@@ -1084,8 +1084,8 @@
             "id": 68122771,
             "language": null,
             "license": null,
-            "last_commit": "2026-11-22T15:57:02Z",
-            "open_issues": 199,
+            "last_commit": "2026-11-23T12:09:15Z",
+            "open_issues": 195,
             "owner": "libp2p",
             "repo": "specs",
             "stars": 1787,
@@ -1105,8 +1105,8 @@
             "id": 50844973,
             "language": "Markdown",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-11-20T21:04:00Z",
-            "open_issues": 28,
+            "last_commit": "2026-11-23T19:16:07Z",
+            "open_issues": 31,
             "owner": "satoshilabs",
             "repo": "slips",
             "stars": 1700,
@@ -1305,7 +1305,7 @@
             "id": 604090446,
             "language": null,
             "license": "NOASSERTION",
-            "last_commit": "2026-11-19T20:02:24Z",
+            "last_commit": "2026-11-23T14:22:52Z",
             "open_issues": 14,
             "owner": "0xPolygon",
             "repo": "Polygon-Improvement-Proposals",
@@ -1399,7 +1399,7 @@
             "open_issues": 0,
             "owner": "Kristories",
             "repo": "awesome-guidelines",
-            "stars": 11282,
+            "stars": 11286,
             "topics": [
               "awesome",
               "awesome-guidelines",
@@ -1427,7 +1427,7 @@
             "language": null,
             "license": null,
             "last_commit": "2025-12-20T03:13:46Z",
-            "open_issues": 79,
+            "open_issues": 80,
             "owner": "yosriady",
             "repo": "awesome-api-devtools",
             "stars": 4013,
@@ -1489,7 +1489,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T00:23:15.041Z",
+    "last_updated": "2026-11-24T04:21:14.744Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of technical standards, they may be called requests for comments, proposals, drafts, notes, specifications, or something else",
